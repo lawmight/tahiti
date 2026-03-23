@@ -1,0 +1,8612 @@
+[
+  {
+    "annee": 2024,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 346,
+    "nombreCroisieristes": 137,
+    "nuiteesTouristiques": 8808,
+    "dureeSejourMoyenne": 25.5
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 277,
+    "nombreCroisieristes": 103,
+    "nuiteesTouristiques": 4048,
+    "dureeSejourMoyenne": 14.6
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 943,
+    "nombreCroisieristes": 172,
+    "nuiteesTouristiques": 10776,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 8903,
+    "nombreCroisieristes": 3970,
+    "nuiteesTouristiques": 125110,
+    "dureeSejourMoyenne": 14.1
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 3554,
+    "nombreCroisieristes": 541,
+    "nuiteesTouristiques": 39154,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 100372,
+    "nombreCroisieristes": 24309,
+    "nuiteesTouristiques": 977663,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 325,
+    "nombreCroisieristes": 82,
+    "nuiteesTouristiques": 5070,
+    "dureeSejourMoyenne": 15.6
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 335,
+    "nombreCroisieristes": 83,
+    "nuiteesTouristiques": 5450,
+    "dureeSejourMoyenne": 16.3
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 871,
+    "nombreCroisieristes": 194,
+    "nuiteesTouristiques": 13049,
+    "dureeSejourMoyenne": 15
+  },
+  {
+    "annee": 2024,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 299,
+    "nombreCroisieristes": 48,
+    "nuiteesTouristiques": 5032,
+    "dureeSejourMoyenne": 16.8
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 70,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 2469,
+    "dureeSejourMoyenne": 35.3
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 2036,
+    "nombreCroisieristes": 183,
+    "nuiteesTouristiques": 17114,
+    "dureeSejourMoyenne": 8.4
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 605,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 5447,
+    "dureeSejourMoyenne": 9
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 260,
+    "nombreCroisieristes": 43,
+    "nuiteesTouristiques": 3087,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 170,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 3226,
+    "dureeSejourMoyenne": 19
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 231,
+    "nombreCroisieristes": 145,
+    "nuiteesTouristiques": 5065,
+    "dureeSejourMoyenne": 21.9
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 3592,
+    "nombreCroisieristes": 161,
+    "nuiteesTouristiques": 27043,
+    "dureeSejourMoyenne": 7.5
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 114,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 2482,
+    "dureeSejourMoyenne": 21.8
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 368,
+    "nombreCroisieristes": 280,
+    "nuiteesTouristiques": 3492,
+    "dureeSejourMoyenne": 9.5
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 302,
+    "nombreCroisieristes": 62,
+    "nuiteesTouristiques": 3848,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 269,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 3158,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2024,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 130,
+    "nombreCroisieristes": 24,
+    "nuiteesTouristiques": 3673,
+    "dureeSejourMoyenne": 28.3
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 5532,
+    "nombreCroisieristes": 1663,
+    "nuiteesTouristiques": 97014,
+    "dureeSejourMoyenne": 17.5
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 4140,
+    "nombreCroisieristes": 1024,
+    "nuiteesTouristiques": 59001,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 859,
+    "nombreCroisieristes": 293,
+    "nuiteesTouristiques": 16260,
+    "dureeSejourMoyenne": 18.9
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 2071,
+    "nombreCroisieristes": 543,
+    "nuiteesTouristiques": 43141,
+    "dureeSejourMoyenne": 20.8
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 1231,
+    "nombreCroisieristes": 828,
+    "nuiteesTouristiques": 54407,
+    "dureeSejourMoyenne": 44.2
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2608,
+    "nombreCroisieristes": 359,
+    "nuiteesTouristiques": 35670,
+    "dureeSejourMoyenne": 13.7
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 161,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 2331,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 80969,
+    "nombreCroisieristes": 8274,
+    "nuiteesTouristiques": 2132125,
+    "dureeSejourMoyenne": 26.3
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 6267,
+    "nombreCroisieristes": 508,
+    "nuiteesTouristiques": 74415,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 283,
+    "nombreCroisieristes": 73,
+    "nuiteesTouristiques": 5409,
+    "dureeSejourMoyenne": 19.1
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 308,
+    "nombreCroisieristes": 90,
+    "nuiteesTouristiques": 6370,
+    "dureeSejourMoyenne": 20.7
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 808,
+    "nombreCroisieristes": 207,
+    "nuiteesTouristiques": 15014,
+    "dureeSejourMoyenne": 18.6
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 512,
+    "nombreCroisieristes": 96,
+    "nuiteesTouristiques": 10432,
+    "dureeSejourMoyenne": 20.4
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 4729,
+    "nombreCroisieristes": 1934,
+    "nuiteesTouristiques": 64990,
+    "dureeSejourMoyenne": 13.7
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 233,
+    "nombreCroisieristes": 101,
+    "nuiteesTouristiques": 3456,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 405,
+    "nombreCroisieristes": 126,
+    "nuiteesTouristiques": 6710,
+    "dureeSejourMoyenne": 16.6
+  },
+  {
+    "annee": 2024,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 3953,
+    "nombreCroisieristes": 1036,
+    "nuiteesTouristiques": 78015,
+    "dureeSejourMoyenne": 19.7
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 7913,
+    "nombreCroisieristes": 2694,
+    "nuiteesTouristiques": 101429,
+    "dureeSejourMoyenne": 12.8
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 537,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 10263,
+    "dureeSejourMoyenne": 19.1
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 538,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 5602,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 243,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 2733,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 5263,
+    "nombreCroisieristes": 189,
+    "nuiteesTouristiques": 98971,
+    "dureeSejourMoyenne": 18.8
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 9068,
+    "nombreCroisieristes": 1259,
+    "nuiteesTouristiques": 99507,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 155,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 2835,
+    "dureeSejourMoyenne": 18.3
+  },
+  {
+    "annee": 2024,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 88,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 805,
+    "dureeSejourMoyenne": 9.1
+  },
+  {
+    "annee": 2024,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 520,
+    "nombreCroisieristes": 102,
+    "nuiteesTouristiques": 6880,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2023,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 416,
+    "nombreCroisieristes": 168,
+    "nuiteesTouristiques": 11473,
+    "dureeSejourMoyenne": 27.6
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 314,
+    "nombreCroisieristes": 95,
+    "nuiteesTouristiques": 4627,
+    "dureeSejourMoyenne": 14.7
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 830,
+    "nombreCroisieristes": 131,
+    "nuiteesTouristiques": 8820,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 8764,
+    "nombreCroisieristes": 3325,
+    "nuiteesTouristiques": 122961,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 3481,
+    "nombreCroisieristes": 453,
+    "nuiteesTouristiques": 39198,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 108761,
+    "nombreCroisieristes": 19627,
+    "nuiteesTouristiques": 1022781,
+    "dureeSejourMoyenne": 9.4
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 350,
+    "nombreCroisieristes": 56,
+    "nuiteesTouristiques": 5334,
+    "dureeSejourMoyenne": 15.2
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 300,
+    "nombreCroisieristes": 62,
+    "nuiteesTouristiques": 3614,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 676,
+    "nombreCroisieristes": 157,
+    "nuiteesTouristiques": 9738,
+    "dureeSejourMoyenne": 14.4
+  },
+  {
+    "annee": 2023,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 374,
+    "nombreCroisieristes": 38,
+    "nuiteesTouristiques": 6314,
+    "dureeSejourMoyenne": 16.9
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 68,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 1473,
+    "dureeSejourMoyenne": 21.7
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 889,
+    "nombreCroisieristes": 33,
+    "nuiteesTouristiques": 7777,
+    "dureeSejourMoyenne": 8.7
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 528,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 5345,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 242,
+    "nombreCroisieristes": 20,
+    "nuiteesTouristiques": 2948,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 137,
+    "nombreCroisieristes": 21,
+    "nuiteesTouristiques": 2654,
+    "dureeSejourMoyenne": 19.4
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 119,
+    "nombreCroisieristes": 71,
+    "nuiteesTouristiques": 2595,
+    "dureeSejourMoyenne": 21.8
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 1398,
+    "nombreCroisieristes": 43,
+    "nuiteesTouristiques": 11986,
+    "dureeSejourMoyenne": 8.6
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 65,
+    "nombreCroisieristes": 19,
+    "nuiteesTouristiques": 948,
+    "dureeSejourMoyenne": 14.6
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 303,
+    "nombreCroisieristes": 226,
+    "nuiteesTouristiques": 3572,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 223,
+    "nombreCroisieristes": 16,
+    "nuiteesTouristiques": 2637,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 200,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 2037,
+    "dureeSejourMoyenne": 10.2
+  },
+  {
+    "annee": 2023,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 118,
+    "nombreCroisieristes": 17,
+    "nuiteesTouristiques": 2780,
+    "dureeSejourMoyenne": 23.6
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4952,
+    "nombreCroisieristes": 1699,
+    "nuiteesTouristiques": 81776,
+    "dureeSejourMoyenne": 16.5
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 3218,
+    "nombreCroisieristes": 750,
+    "nuiteesTouristiques": 47495,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 777,
+    "nombreCroisieristes": 274,
+    "nuiteesTouristiques": 13733,
+    "dureeSejourMoyenne": 17.7
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 1689,
+    "nombreCroisieristes": 335,
+    "nuiteesTouristiques": 35478,
+    "dureeSejourMoyenne": 21
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 1182,
+    "nombreCroisieristes": 707,
+    "nuiteesTouristiques": 49726,
+    "dureeSejourMoyenne": 42.1
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2340,
+    "nombreCroisieristes": 380,
+    "nuiteesTouristiques": 32327,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 119,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 1649,
+    "dureeSejourMoyenne": 13.9
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 79335,
+    "nombreCroisieristes": 8230,
+    "nuiteesTouristiques": 2029850,
+    "dureeSejourMoyenne": 25.6
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 5747,
+    "nombreCroisieristes": 490,
+    "nuiteesTouristiques": 68473,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 272,
+    "nombreCroisieristes": 64,
+    "nuiteesTouristiques": 5291,
+    "dureeSejourMoyenne": 19.5
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 228,
+    "nombreCroisieristes": 80,
+    "nuiteesTouristiques": 5499,
+    "dureeSejourMoyenne": 24.1
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 645,
+    "nombreCroisieristes": 157,
+    "nuiteesTouristiques": 10059,
+    "dureeSejourMoyenne": 15.6
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 342,
+    "nombreCroisieristes": 65,
+    "nuiteesTouristiques": 6265,
+    "dureeSejourMoyenne": 18.3
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 3827,
+    "nombreCroisieristes": 1151,
+    "nuiteesTouristiques": 52935,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 109,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 1839,
+    "dureeSejourMoyenne": 16.9
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 389,
+    "nombreCroisieristes": 115,
+    "nuiteesTouristiques": 7013,
+    "dureeSejourMoyenne": 18
+  },
+  {
+    "annee": 2023,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 3483,
+    "nombreCroisieristes": 872,
+    "nuiteesTouristiques": 72720,
+    "dureeSejourMoyenne": 20.9
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 7718,
+    "nombreCroisieristes": 2391,
+    "nuiteesTouristiques": 97799,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 387,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 6246,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 407,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 3978,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 150,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 1988,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 6899,
+    "nombreCroisieristes": 214,
+    "nuiteesTouristiques": 110763,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 8471,
+    "nombreCroisieristes": 1046,
+    "nuiteesTouristiques": 93271,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 26,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 373,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2023,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 55,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 896,
+    "dureeSejourMoyenne": 16.3
+  },
+  {
+    "annee": 2023,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 490,
+    "nombreCroisieristes": 88,
+    "nuiteesTouristiques": 6886,
+    "dureeSejourMoyenne": 14.1
+  },
+  {
+    "annee": 2022,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 306,
+    "nombreCroisieristes": 117,
+    "nuiteesTouristiques": 8335,
+    "dureeSejourMoyenne": 27.2
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 345,
+    "nombreCroisieristes": 99,
+    "nuiteesTouristiques": 5116,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 605,
+    "nombreCroisieristes": 126,
+    "nuiteesTouristiques": 8090,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 9507,
+    "nombreCroisieristes": 5413,
+    "nuiteesTouristiques": 129184,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 2902,
+    "nombreCroisieristes": 500,
+    "nuiteesTouristiques": 36470,
+    "dureeSejourMoyenne": 12.6
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 91543,
+    "nombreCroisieristes": 19813,
+    "nuiteesTouristiques": 956850,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 164,
+    "nombreCroisieristes": 32,
+    "nuiteesTouristiques": 2996,
+    "dureeSejourMoyenne": 18.3
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 234,
+    "nombreCroisieristes": 73,
+    "nuiteesTouristiques": 3697,
+    "dureeSejourMoyenne": 15.8
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 474,
+    "nombreCroisieristes": 105,
+    "nuiteesTouristiques": 7451,
+    "dureeSejourMoyenne": 15.7
+  },
+  {
+    "annee": 2022,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 166,
+    "nombreCroisieristes": 33,
+    "nuiteesTouristiques": 3434,
+    "dureeSejourMoyenne": 20.7
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 59,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 2260,
+    "dureeSejourMoyenne": 38.3
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 162,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 1572,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 239,
+    "nombreCroisieristes": 5,
+    "nuiteesTouristiques": 4032,
+    "dureeSejourMoyenne": 16.9
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 59,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 1172,
+    "dureeSejourMoyenne": 19.9
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 71,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 1959,
+    "dureeSejourMoyenne": 27.6
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 90,
+    "nombreCroisieristes": 54,
+    "nuiteesTouristiques": 1662,
+    "dureeSejourMoyenne": 18.5
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 278,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 3473,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 30,
+    "nombreCroisieristes": 5,
+    "nuiteesTouristiques": 520,
+    "dureeSejourMoyenne": 17.3
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 302,
+    "nombreCroisieristes": 245,
+    "nuiteesTouristiques": 3400,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 186,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 2509,
+    "dureeSejourMoyenne": 13.5
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 91,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 999,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2022,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 41,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 1296,
+    "dureeSejourMoyenne": 31.6
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3044,
+    "nombreCroisieristes": 949,
+    "nuiteesTouristiques": 63099,
+    "dureeSejourMoyenne": 20.7
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 2210,
+    "nombreCroisieristes": 714,
+    "nuiteesTouristiques": 38123,
+    "dureeSejourMoyenne": 17.3
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 424,
+    "nombreCroisieristes": 176,
+    "nuiteesTouristiques": 9726,
+    "dureeSejourMoyenne": 22.9
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 1626,
+    "nombreCroisieristes": 411,
+    "nuiteesTouristiques": 37878,
+    "dureeSejourMoyenne": 23.3
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 915,
+    "nombreCroisieristes": 596,
+    "nuiteesTouristiques": 41188,
+    "dureeSejourMoyenne": 45
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2072,
+    "nombreCroisieristes": 237,
+    "nuiteesTouristiques": 29315,
+    "dureeSejourMoyenne": 14.1
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 86,
+    "nombreCroisieristes": 24,
+    "nuiteesTouristiques": 1123,
+    "dureeSejourMoyenne": 13.1
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 71305,
+    "nombreCroisieristes": 7722,
+    "nuiteesTouristiques": 1869095,
+    "dureeSejourMoyenne": 26.2
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 5885,
+    "nombreCroisieristes": 351,
+    "nuiteesTouristiques": 74553,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 284,
+    "nombreCroisieristes": 47,
+    "nuiteesTouristiques": 5409,
+    "dureeSejourMoyenne": 19
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 189,
+    "nombreCroisieristes": 83,
+    "nuiteesTouristiques": 4017,
+    "dureeSejourMoyenne": 21.3
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 552,
+    "nombreCroisieristes": 170,
+    "nuiteesTouristiques": 12174,
+    "dureeSejourMoyenne": 22.1
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 285,
+    "nombreCroisieristes": 66,
+    "nuiteesTouristiques": 5585,
+    "dureeSejourMoyenne": 19.6
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 3258,
+    "nombreCroisieristes": 1005,
+    "nuiteesTouristiques": 47419,
+    "dureeSejourMoyenne": 14.6
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 61,
+    "nombreCroisieristes": 35,
+    "nuiteesTouristiques": 1323,
+    "dureeSejourMoyenne": 21.7
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 251,
+    "nombreCroisieristes": 93,
+    "nuiteesTouristiques": 5577,
+    "dureeSejourMoyenne": 22.2
+  },
+  {
+    "annee": 2022,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2494,
+    "nombreCroisieristes": 664,
+    "nuiteesTouristiques": 58966,
+    "dureeSejourMoyenne": 23.6
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 4468,
+    "nombreCroisieristes": 1504,
+    "nuiteesTouristiques": 63713,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 196,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 3449,
+    "dureeSejourMoyenne": 17.6
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 173,
+    "nombreCroisieristes": 6,
+    "nuiteesTouristiques": 2106,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 91,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1505,
+    "dureeSejourMoyenne": 16.5
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 5483,
+    "nombreCroisieristes": 211,
+    "nuiteesTouristiques": 99720,
+    "dureeSejourMoyenne": 18.2
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 5096,
+    "nombreCroisieristes": 750,
+    "nuiteesTouristiques": 64494,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 44,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 817,
+    "dureeSejourMoyenne": 18.6
+  },
+  {
+    "annee": 2022,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 35,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 906,
+    "dureeSejourMoyenne": 25.9
+  },
+  {
+    "annee": 2022,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 369,
+    "nombreCroisieristes": 73,
+    "nuiteesTouristiques": 5921,
+    "dureeSejourMoyenne": 16
+  },
+  {
+    "annee": 2021,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 65,
+    "nombreCroisieristes": 26,
+    "nuiteesTouristiques": 2316,
+    "dureeSejourMoyenne": 35.6
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 61,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 1198,
+    "dureeSejourMoyenne": 19.6
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 76,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 1301,
+    "dureeSejourMoyenne": 17.1
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 1287,
+    "nombreCroisieristes": 350,
+    "nuiteesTouristiques": 25510,
+    "dureeSejourMoyenne": 19.8
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 869,
+    "nombreCroisieristes": 123,
+    "nuiteesTouristiques": 12354,
+    "dureeSejourMoyenne": 14.2
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 40084,
+    "nombreCroisieristes": 6080,
+    "nuiteesTouristiques": 439921,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 32,
+    "nombreCroisieristes": 20,
+    "nuiteesTouristiques": 874,
+    "dureeSejourMoyenne": 27.3
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 59,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 803,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 34,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 1145,
+    "dureeSejourMoyenne": 33.7
+  },
+  {
+    "annee": 2021,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 28,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 476,
+    "dureeSejourMoyenne": 17
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 17,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 814,
+    "dureeSejourMoyenne": 47.9
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 18,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 184,
+    "dureeSejourMoyenne": 10.2
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 33,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 855,
+    "dureeSejourMoyenne": 25.9
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 12,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 643,
+    "dureeSejourMoyenne": 53.6
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 12,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 226,
+    "dureeSejourMoyenne": 18.8
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 42,
+    "nombreCroisieristes": 39,
+    "nuiteesTouristiques": 779,
+    "dureeSejourMoyenne": 18.5
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 23,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 474,
+    "dureeSejourMoyenne": 20.6
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 8,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 390,
+    "dureeSejourMoyenne": 48.8
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 139,
+    "nombreCroisieristes": 112,
+    "nuiteesTouristiques": 2913,
+    "dureeSejourMoyenne": 21
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 24,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 671,
+    "dureeSejourMoyenne": 28
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 8,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 167,
+    "dureeSejourMoyenne": 20.9
+  },
+  {
+    "annee": 2021,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 1,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 90,
+    "dureeSejourMoyenne": 90
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 753,
+    "nombreCroisieristes": 251,
+    "nuiteesTouristiques": 20726,
+    "dureeSejourMoyenne": 27.5
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 583,
+    "nombreCroisieristes": 199,
+    "nuiteesTouristiques": 14192,
+    "dureeSejourMoyenne": 24.3
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 108,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 3510,
+    "dureeSejourMoyenne": 32.5
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 521,
+    "nombreCroisieristes": 125,
+    "nuiteesTouristiques": 15981,
+    "dureeSejourMoyenne": 30.7
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 286,
+    "nombreCroisieristes": 209,
+    "nuiteesTouristiques": 14478,
+    "dureeSejourMoyenne": 50.6
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 420,
+    "nombreCroisieristes": 71,
+    "nuiteesTouristiques": 9499,
+    "dureeSejourMoyenne": 22.6
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 17,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 297,
+    "dureeSejourMoyenne": 17.5
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 34202,
+    "nombreCroisieristes": 3968,
+    "nuiteesTouristiques": 1078020,
+    "dureeSejourMoyenne": 31.5
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 527,
+    "nombreCroisieristes": 53,
+    "nuiteesTouristiques": 11099,
+    "dureeSejourMoyenne": 21.1
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 84,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 2074,
+    "dureeSejourMoyenne": 24.7
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 27,
+    "nombreCroisieristes": 17,
+    "nuiteesTouristiques": 1191,
+    "dureeSejourMoyenne": 44.1
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 98,
+    "nombreCroisieristes": 41,
+    "nuiteesTouristiques": 3409,
+    "dureeSejourMoyenne": 34.8
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 84,
+    "nombreCroisieristes": 31,
+    "nuiteesTouristiques": 1529,
+    "dureeSejourMoyenne": 18.2
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 516,
+    "nombreCroisieristes": 181,
+    "nuiteesTouristiques": 12616,
+    "dureeSejourMoyenne": 24.4
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 20,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 704,
+    "dureeSejourMoyenne": 35.2
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 58,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 2223,
+    "dureeSejourMoyenne": 38.3
+  },
+  {
+    "annee": 2021,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 688,
+    "nombreCroisieristes": 147,
+    "nuiteesTouristiques": 20950,
+    "dureeSejourMoyenne": 30.5
+  },
+  {
+    "annee": 2021,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 94,
+    "nombreCroisieristes": 41,
+    "nuiteesTouristiques": 4630,
+    "dureeSejourMoyenne": 49.3
+  },
+  {
+    "annee": 2021,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 8,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 539,
+    "dureeSejourMoyenne": 67.4
+  },
+  {
+    "annee": 2021,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 1,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 30,
+    "dureeSejourMoyenne": 30
+  },
+  {
+    "annee": 2021,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 370,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 10600,
+    "dureeSejourMoyenne": 28.6
+  },
+  {
+    "annee": 2021,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 68,
+    "nombreCroisieristes": 43,
+    "nuiteesTouristiques": 3319,
+    "dureeSejourMoyenne": 48.8
+  },
+  {
+    "annee": 2021,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 81,
+    "nombreCroisieristes": 8,
+    "nuiteesTouristiques": 1221,
+    "dureeSejourMoyenne": 15.1
+  },
+  {
+    "annee": 2020,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 103,
+    "nombreCroisieristes": 43,
+    "nuiteesTouristiques": 3335,
+    "dureeSejourMoyenne": 32.4
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 69,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 1262,
+    "dureeSejourMoyenne": 18.3
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 282,
+    "nombreCroisieristes": 69,
+    "nuiteesTouristiques": 3396,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 2019,
+    "nombreCroisieristes": 737,
+    "nuiteesTouristiques": 30599,
+    "dureeSejourMoyenne": 15.2
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 730,
+    "nombreCroisieristes": 234,
+    "nuiteesTouristiques": 9097,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 31555,
+    "nombreCroisieristes": 5048,
+    "nuiteesTouristiques": 326435,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 249,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 3621,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 89,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 1059,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 236,
+    "nombreCroisieristes": 19,
+    "nuiteesTouristiques": 3109,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2020,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 403,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 5309,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 17,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 614,
+    "dureeSejourMoyenne": 36.1
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 638,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 5594,
+    "dureeSejourMoyenne": 8.8
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 146,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 1828,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 89,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 1043,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 86,
+    "nombreCroisieristes": 6,
+    "nuiteesTouristiques": 564,
+    "dureeSejourMoyenne": 6.6
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 29,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 318,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 1071,
+    "nombreCroisieristes": 75,
+    "nuiteesTouristiques": 7678,
+    "dureeSejourMoyenne": 7.2
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 17,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 273,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 63,
+    "nombreCroisieristes": 50,
+    "nuiteesTouristiques": 936,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 54,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 574,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 93,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 824,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2020,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 29,
+    "nombreCroisieristes": 12,
+    "nuiteesTouristiques": 518,
+    "dureeSejourMoyenne": 17.9
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 1362,
+    "nombreCroisieristes": 500,
+    "nuiteesTouristiques": 25507,
+    "dureeSejourMoyenne": 18.7
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 965,
+    "nombreCroisieristes": 331,
+    "nuiteesTouristiques": 15576,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 164,
+    "nombreCroisieristes": 45,
+    "nuiteesTouristiques": 3371,
+    "dureeSejourMoyenne": 20.6
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 510,
+    "nombreCroisieristes": 123,
+    "nuiteesTouristiques": 12874,
+    "dureeSejourMoyenne": 25.2
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 208,
+    "nombreCroisieristes": 111,
+    "nuiteesTouristiques": 8543,
+    "dureeSejourMoyenne": 41.1
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 404,
+    "nombreCroisieristes": 63,
+    "nuiteesTouristiques": 8045,
+    "dureeSejourMoyenne": 19.9
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 61,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 885,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 28112,
+    "nombreCroisieristes": 2862,
+    "nuiteesTouristiques": 799571,
+    "dureeSejourMoyenne": 28.4
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 439,
+    "nombreCroisieristes": 70,
+    "nuiteesTouristiques": 9487,
+    "dureeSejourMoyenne": 21.6
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 89,
+    "nombreCroisieristes": 20,
+    "nuiteesTouristiques": 2200,
+    "dureeSejourMoyenne": 24.7
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 48,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 870,
+    "dureeSejourMoyenne": 18.1
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 248,
+    "nombreCroisieristes": 55,
+    "nuiteesTouristiques": 6599,
+    "dureeSejourMoyenne": 26.6
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 107,
+    "nombreCroisieristes": 8,
+    "nuiteesTouristiques": 2224,
+    "dureeSejourMoyenne": 20.8
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 1117,
+    "nombreCroisieristes": 411,
+    "nuiteesTouristiques": 17459,
+    "dureeSejourMoyenne": 15.6
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 160,
+    "nombreCroisieristes": 68,
+    "nuiteesTouristiques": 2301,
+    "dureeSejourMoyenne": 14.4
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 130,
+    "nombreCroisieristes": 40,
+    "nuiteesTouristiques": 2164,
+    "dureeSejourMoyenne": 16.6
+  },
+  {
+    "annee": 2020,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 769,
+    "nombreCroisieristes": 159,
+    "nuiteesTouristiques": 19272,
+    "dureeSejourMoyenne": 25.1
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 1230,
+    "nombreCroisieristes": 384,
+    "nuiteesTouristiques": 13147,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 56,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 746,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 55,
+    "nombreCroisieristes": 5,
+    "nuiteesTouristiques": 425,
+    "dureeSejourMoyenne": 7.7
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 25,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 482,
+    "dureeSejourMoyenne": 19.3
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 1356,
+    "nombreCroisieristes": 40,
+    "nuiteesTouristiques": 23334,
+    "dureeSejourMoyenne": 17.2
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 1168,
+    "nombreCroisieristes": 164,
+    "nuiteesTouristiques": 13001,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 15,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 195,
+    "dureeSejourMoyenne": 13
+  },
+  {
+    "annee": 2020,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 2,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 10,
+    "dureeSejourMoyenne": 5
+  },
+  {
+    "annee": 2020,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 150,
+    "nombreCroisieristes": 32,
+    "nuiteesTouristiques": 3009,
+    "dureeSejourMoyenne": 20.1
+  },
+  {
+    "annee": 2019,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 336,
+    "nombreCroisieristes": 67,
+    "nuiteesTouristiques": 6309,
+    "dureeSejourMoyenne": 18.8
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 273,
+    "nombreCroisieristes": 104,
+    "nuiteesTouristiques": 3504,
+    "dureeSejourMoyenne": 12.8
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 961,
+    "nombreCroisieristes": 153,
+    "nuiteesTouristiques": 10945,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7958,
+    "nombreCroisieristes": 3529,
+    "nuiteesTouristiques": 105941,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 3536,
+    "nombreCroisieristes": 850,
+    "nuiteesTouristiques": 38539,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 85225,
+    "nombreCroisieristes": 21364,
+    "nuiteesTouristiques": 857229,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1073,
+    "nombreCroisieristes": 144,
+    "nuiteesTouristiques": 14847,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 580,
+    "nombreCroisieristes": 140,
+    "nuiteesTouristiques": 7010,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 1871,
+    "nombreCroisieristes": 243,
+    "nuiteesTouristiques": 24930,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2019,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 2456,
+    "nombreCroisieristes": 154,
+    "nuiteesTouristiques": 30808,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 83,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 1126,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 3345,
+    "nombreCroisieristes": 194,
+    "nuiteesTouristiques": 30650,
+    "dureeSejourMoyenne": 9.2
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 1034,
+    "nombreCroisieristes": 44,
+    "nuiteesTouristiques": 9623,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 415,
+    "nombreCroisieristes": 65,
+    "nuiteesTouristiques": 4859,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 405,
+    "nombreCroisieristes": 49,
+    "nuiteesTouristiques": 3431,
+    "dureeSejourMoyenne": 8.5
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 146,
+    "nombreCroisieristes": 79,
+    "nuiteesTouristiques": 1809,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 8176,
+    "nombreCroisieristes": 504,
+    "nuiteesTouristiques": 59951,
+    "dureeSejourMoyenne": 7.3
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 137,
+    "nombreCroisieristes": 34,
+    "nuiteesTouristiques": 1742,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 238,
+    "nombreCroisieristes": 163,
+    "nuiteesTouristiques": 2223,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 404,
+    "nombreCroisieristes": 48,
+    "nuiteesTouristiques": 4807,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 571,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 5903,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2019,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 200,
+    "nombreCroisieristes": 57,
+    "nuiteesTouristiques": 2848,
+    "dureeSejourMoyenne": 14.2
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 5010,
+    "nombreCroisieristes": 1803,
+    "nuiteesTouristiques": 73359,
+    "dureeSejourMoyenne": 14.6
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 2828,
+    "nombreCroisieristes": 702,
+    "nuiteesTouristiques": 37662,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 818,
+    "nombreCroisieristes": 336,
+    "nuiteesTouristiques": 12262,
+    "dureeSejourMoyenne": 15
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 1502,
+    "nombreCroisieristes": 351,
+    "nuiteesTouristiques": 28194,
+    "dureeSejourMoyenne": 18.8
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 569,
+    "nombreCroisieristes": 228,
+    "nuiteesTouristiques": 12638,
+    "dureeSejourMoyenne": 22.2
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2775,
+    "nombreCroisieristes": 288,
+    "nuiteesTouristiques": 33808,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 184,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 2549,
+    "dureeSejourMoyenne": 13.9
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 60382,
+    "nombreCroisieristes": 5829,
+    "nuiteesTouristiques": 1540736,
+    "dureeSejourMoyenne": 25.5
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 8369,
+    "nombreCroisieristes": 667,
+    "nuiteesTouristiques": 93642,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 235,
+    "nombreCroisieristes": 48,
+    "nuiteesTouristiques": 4098,
+    "dureeSejourMoyenne": 17.4
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 309,
+    "nombreCroisieristes": 99,
+    "nuiteesTouristiques": 5298,
+    "dureeSejourMoyenne": 17.1
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 667,
+    "nombreCroisieristes": 116,
+    "nuiteesTouristiques": 9859,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 316,
+    "nombreCroisieristes": 44,
+    "nuiteesTouristiques": 4544,
+    "dureeSejourMoyenne": 14.4
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 4424,
+    "nombreCroisieristes": 1117,
+    "nuiteesTouristiques": 53420,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 486,
+    "nombreCroisieristes": 183,
+    "nuiteesTouristiques": 6641,
+    "dureeSejourMoyenne": 13.7
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 480,
+    "nombreCroisieristes": 177,
+    "nuiteesTouristiques": 7820,
+    "dureeSejourMoyenne": 16.3
+  },
+  {
+    "annee": 2019,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 3524,
+    "nombreCroisieristes": 922,
+    "nuiteesTouristiques": 64504,
+    "dureeSejourMoyenne": 18.3
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 8204,
+    "nombreCroisieristes": 2663,
+    "nuiteesTouristiques": 99699,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 313,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 4215,
+    "dureeSejourMoyenne": 13.5
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 456,
+    "nombreCroisieristes": 16,
+    "nuiteesTouristiques": 5605,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 75,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 819,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 6522,
+    "nombreCroisieristes": 230,
+    "nuiteesTouristiques": 110907,
+    "dureeSejourMoyenne": 17
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 7960,
+    "nombreCroisieristes": 1239,
+    "nuiteesTouristiques": 83942,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 46,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 392,
+    "dureeSejourMoyenne": 8.5
+  },
+  {
+    "annee": 2019,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 41,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 426,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2019,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 724,
+    "nombreCroisieristes": 117,
+    "nuiteesTouristiques": 8781,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2018,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 377,
+    "nombreCroisieristes": 83,
+    "nuiteesTouristiques": 7908,
+    "dureeSejourMoyenne": 21
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 254,
+    "nombreCroisieristes": 89,
+    "nuiteesTouristiques": 2656,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 930,
+    "nombreCroisieristes": 267,
+    "nuiteesTouristiques": 10497,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7846,
+    "nombreCroisieristes": 3887,
+    "nuiteesTouristiques": 105314,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 3244,
+    "nombreCroisieristes": 762,
+    "nuiteesTouristiques": 36279,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 72383,
+    "nombreCroisieristes": 21060,
+    "nuiteesTouristiques": 725305,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 2067,
+    "nombreCroisieristes": 162,
+    "nuiteesTouristiques": 28275,
+    "dureeSejourMoyenne": 13.7
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 519,
+    "nombreCroisieristes": 153,
+    "nuiteesTouristiques": 6194,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 1788,
+    "nombreCroisieristes": 247,
+    "nuiteesTouristiques": 21182,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2018,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 2018,
+    "nombreCroisieristes": 151,
+    "nuiteesTouristiques": 24620,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 101,
+    "nombreCroisieristes": 45,
+    "nuiteesTouristiques": 1463,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 5055,
+    "nombreCroisieristes": 225,
+    "nuiteesTouristiques": 44205,
+    "dureeSejourMoyenne": 8.7
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 1051,
+    "nombreCroisieristes": 49,
+    "nuiteesTouristiques": 8934,
+    "dureeSejourMoyenne": 8.5
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 368,
+    "nombreCroisieristes": 80,
+    "nuiteesTouristiques": 4555,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 403,
+    "nombreCroisieristes": 37,
+    "nuiteesTouristiques": 2930,
+    "dureeSejourMoyenne": 7.3
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 167,
+    "nombreCroisieristes": 92,
+    "nuiteesTouristiques": 4231,
+    "dureeSejourMoyenne": 25.3
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 9912,
+    "nombreCroisieristes": 445,
+    "nuiteesTouristiques": 71933,
+    "dureeSejourMoyenne": 7.3
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 111,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 1435,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 201,
+    "nombreCroisieristes": 133,
+    "nuiteesTouristiques": 1784,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 335,
+    "nombreCroisieristes": 55,
+    "nuiteesTouristiques": 3601,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 519,
+    "nombreCroisieristes": 68,
+    "nuiteesTouristiques": 5275,
+    "dureeSejourMoyenne": 10.2
+  },
+  {
+    "annee": 2018,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 243,
+    "nombreCroisieristes": 52,
+    "nuiteesTouristiques": 3874,
+    "dureeSejourMoyenne": 15.9
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4539,
+    "nombreCroisieristes": 1563,
+    "nuiteesTouristiques": 70416,
+    "dureeSejourMoyenne": 15.5
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 2454,
+    "nombreCroisieristes": 523,
+    "nuiteesTouristiques": 31539,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 775,
+    "nombreCroisieristes": 317,
+    "nuiteesTouristiques": 12850,
+    "dureeSejourMoyenne": 16.6
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 1243,
+    "nombreCroisieristes": 292,
+    "nuiteesTouristiques": 24885,
+    "dureeSejourMoyenne": 20
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 509,
+    "nombreCroisieristes": 199,
+    "nuiteesTouristiques": 12969,
+    "dureeSejourMoyenne": 25.5
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2530,
+    "nombreCroisieristes": 230,
+    "nuiteesTouristiques": 29603,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 221,
+    "nombreCroisieristes": 31,
+    "nuiteesTouristiques": 2508,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 49272,
+    "nombreCroisieristes": 4539,
+    "nuiteesTouristiques": 1282957,
+    "dureeSejourMoyenne": 26
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 8802,
+    "nombreCroisieristes": 598,
+    "nuiteesTouristiques": 97309,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 271,
+    "nombreCroisieristes": 61,
+    "nuiteesTouristiques": 4522,
+    "dureeSejourMoyenne": 16.7
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 292,
+    "nombreCroisieristes": 92,
+    "nuiteesTouristiques": 4396,
+    "dureeSejourMoyenne": 15.1
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 706,
+    "nombreCroisieristes": 166,
+    "nuiteesTouristiques": 12215,
+    "dureeSejourMoyenne": 17.3
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 267,
+    "nombreCroisieristes": 42,
+    "nuiteesTouristiques": 3965,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 4382,
+    "nombreCroisieristes": 1162,
+    "nuiteesTouristiques": 52128,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 526,
+    "nombreCroisieristes": 214,
+    "nuiteesTouristiques": 6541,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 489,
+    "nombreCroisieristes": 128,
+    "nuiteesTouristiques": 6495,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2018,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 3406,
+    "nombreCroisieristes": 968,
+    "nuiteesTouristiques": 64170,
+    "dureeSejourMoyenne": 18.8
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 9335,
+    "nombreCroisieristes": 2617,
+    "nuiteesTouristiques": 109736,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 628,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 9309,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 243,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 2583,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 109,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1606,
+    "dureeSejourMoyenne": 14.7
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 5684,
+    "nombreCroisieristes": 195,
+    "nuiteesTouristiques": 94060,
+    "dureeSejourMoyenne": 16.5
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 8947,
+    "nombreCroisieristes": 1370,
+    "nuiteesTouristiques": 99330,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 58,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1690,
+    "dureeSejourMoyenne": 29.1
+  },
+  {
+    "annee": 2018,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 43,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 459,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2018,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 645,
+    "nombreCroisieristes": 110,
+    "nuiteesTouristiques": 7688,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2017,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 299,
+    "nombreCroisieristes": 59,
+    "nuiteesTouristiques": 5891,
+    "dureeSejourMoyenne": 19.7
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 206,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 2232,
+    "dureeSejourMoyenne": 10.8
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 765,
+    "nombreCroisieristes": 164,
+    "nuiteesTouristiques": 7992,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 6372,
+    "nombreCroisieristes": 2601,
+    "nuiteesTouristiques": 82201,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 2837,
+    "nombreCroisieristes": 536,
+    "nuiteesTouristiques": 30906,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 65359,
+    "nombreCroisieristes": 15364,
+    "nuiteesTouristiques": 630093,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 2121,
+    "nombreCroisieristes": 213,
+    "nuiteesTouristiques": 27359,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 587,
+    "nombreCroisieristes": 105,
+    "nuiteesTouristiques": 7313,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 1997,
+    "nombreCroisieristes": 178,
+    "nuiteesTouristiques": 22561,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2017,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1958,
+    "nombreCroisieristes": 160,
+    "nuiteesTouristiques": 23414,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 64,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 1534,
+    "dureeSejourMoyenne": 24
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 5430,
+    "nombreCroisieristes": 216,
+    "nuiteesTouristiques": 48440,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 1075,
+    "nombreCroisieristes": 44,
+    "nuiteesTouristiques": 9439,
+    "dureeSejourMoyenne": 8.8
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 370,
+    "nombreCroisieristes": 38,
+    "nuiteesTouristiques": 3803,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 583,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 4119,
+    "dureeSejourMoyenne": 7.1
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 133,
+    "nombreCroisieristes": 69,
+    "nuiteesTouristiques": 1573,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 12808,
+    "nombreCroisieristes": 494,
+    "nuiteesTouristiques": 87484,
+    "dureeSejourMoyenne": 6.8
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 137,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 2262,
+    "dureeSejourMoyenne": 16.5
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 176,
+    "nombreCroisieristes": 123,
+    "nuiteesTouristiques": 1725,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 321,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 3741,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 579,
+    "nombreCroisieristes": 39,
+    "nuiteesTouristiques": 5822,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2017,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 215,
+    "nombreCroisieristes": 33,
+    "nuiteesTouristiques": 3664,
+    "dureeSejourMoyenne": 17
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3881,
+    "nombreCroisieristes": 1249,
+    "nuiteesTouristiques": 64684,
+    "dureeSejourMoyenne": 16.7
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1910,
+    "nombreCroisieristes": 396,
+    "nuiteesTouristiques": 25267,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 601,
+    "nombreCroisieristes": 243,
+    "nuiteesTouristiques": 9421,
+    "dureeSejourMoyenne": 15.7
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 1092,
+    "nombreCroisieristes": 241,
+    "nuiteesTouristiques": 21978,
+    "dureeSejourMoyenne": 20.1
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 318,
+    "nombreCroisieristes": 74,
+    "nuiteesTouristiques": 6121,
+    "dureeSejourMoyenne": 19.2
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2459,
+    "nombreCroisieristes": 192,
+    "nuiteesTouristiques": 27034,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 165,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 2449,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 41685,
+    "nombreCroisieristes": 3749,
+    "nuiteesTouristiques": 1096625,
+    "dureeSejourMoyenne": 26.3
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 7720,
+    "nombreCroisieristes": 596,
+    "nuiteesTouristiques": 83327,
+    "dureeSejourMoyenne": 10.8
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 133,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 2341,
+    "dureeSejourMoyenne": 17.6
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 264,
+    "nombreCroisieristes": 78,
+    "nuiteesTouristiques": 3592,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 557,
+    "nombreCroisieristes": 97,
+    "nuiteesTouristiques": 8602,
+    "dureeSejourMoyenne": 15.4
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 296,
+    "nombreCroisieristes": 50,
+    "nuiteesTouristiques": 3551,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 3768,
+    "nombreCroisieristes": 993,
+    "nuiteesTouristiques": 44224,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 472,
+    "nombreCroisieristes": 130,
+    "nuiteesTouristiques": 5728,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 356,
+    "nombreCroisieristes": 97,
+    "nuiteesTouristiques": 4789,
+    "dureeSejourMoyenne": 13.5
+  },
+  {
+    "annee": 2017,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 3054,
+    "nombreCroisieristes": 803,
+    "nuiteesTouristiques": 58724,
+    "dureeSejourMoyenne": 19.2
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 10015,
+    "nombreCroisieristes": 2546,
+    "nuiteesTouristiques": 109817,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 441,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 6991,
+    "dureeSejourMoyenne": 15.9
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 354,
+    "nombreCroisieristes": 88,
+    "nuiteesTouristiques": 3692,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 129,
+    "nombreCroisieristes": 12,
+    "nuiteesTouristiques": 1726,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 4815,
+    "nombreCroisieristes": 169,
+    "nuiteesTouristiques": 79724,
+    "dureeSejourMoyenne": 16.6
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 9392,
+    "nombreCroisieristes": 1179,
+    "nuiteesTouristiques": 95532,
+    "dureeSejourMoyenne": 10.2
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 71,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 1194,
+    "dureeSejourMoyenne": 16.8
+  },
+  {
+    "annee": 2017,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 25,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 276,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2017,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 594,
+    "nombreCroisieristes": 51,
+    "nuiteesTouristiques": 6985,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2016,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 302,
+    "nombreCroisieristes": 57,
+    "nuiteesTouristiques": 5513,
+    "dureeSejourMoyenne": 18.3
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 178,
+    "nombreCroisieristes": 39,
+    "nuiteesTouristiques": 2188,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 874,
+    "nombreCroisieristes": 231,
+    "nuiteesTouristiques": 9268,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 6326,
+    "nombreCroisieristes": 2810,
+    "nuiteesTouristiques": 80224,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 2049,
+    "nombreCroisieristes": 609,
+    "nuiteesTouristiques": 22933,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 65846,
+    "nombreCroisieristes": 16856,
+    "nuiteesTouristiques": 629200,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 2556,
+    "nombreCroisieristes": 253,
+    "nuiteesTouristiques": 33299,
+    "dureeSejourMoyenne": 13
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 733,
+    "nombreCroisieristes": 158,
+    "nuiteesTouristiques": 8661,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 1516,
+    "nombreCroisieristes": 221,
+    "nuiteesTouristiques": 16553,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2016,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 2027,
+    "nombreCroisieristes": 233,
+    "nuiteesTouristiques": 23046,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 82,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 1516,
+    "dureeSejourMoyenne": 18.5
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 5987,
+    "nombreCroisieristes": 270,
+    "nuiteesTouristiques": 49281,
+    "dureeSejourMoyenne": 8.2
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 1170,
+    "nombreCroisieristes": 44,
+    "nuiteesTouristiques": 9842,
+    "dureeSejourMoyenne": 8.4
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 359,
+    "nombreCroisieristes": 40,
+    "nuiteesTouristiques": 3593,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 637,
+    "nombreCroisieristes": 33,
+    "nuiteesTouristiques": 4674,
+    "dureeSejourMoyenne": 7.3
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 214,
+    "nombreCroisieristes": 156,
+    "nuiteesTouristiques": 3198,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 12174,
+    "nombreCroisieristes": 595,
+    "nuiteesTouristiques": 88094,
+    "dureeSejourMoyenne": 7.2
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 139,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 2268,
+    "dureeSejourMoyenne": 16.3
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 163,
+    "nombreCroisieristes": 115,
+    "nuiteesTouristiques": 1723,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 287,
+    "nombreCroisieristes": 49,
+    "nuiteesTouristiques": 3108,
+    "dureeSejourMoyenne": 10.8
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 510,
+    "nombreCroisieristes": 64,
+    "nuiteesTouristiques": 5416,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2016,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 227,
+    "nombreCroisieristes": 83,
+    "nuiteesTouristiques": 3017,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3951,
+    "nombreCroisieristes": 1233,
+    "nuiteesTouristiques": 58346,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1513,
+    "nombreCroisieristes": 291,
+    "nuiteesTouristiques": 19087,
+    "dureeSejourMoyenne": 12.6
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 622,
+    "nombreCroisieristes": 198,
+    "nuiteesTouristiques": 10040,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 991,
+    "nombreCroisieristes": 252,
+    "nuiteesTouristiques": 20528,
+    "dureeSejourMoyenne": 20.7
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 282,
+    "nombreCroisieristes": 82,
+    "nuiteesTouristiques": 4705,
+    "dureeSejourMoyenne": 16.7
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2414,
+    "nombreCroisieristes": 166,
+    "nuiteesTouristiques": 25457,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 149,
+    "nombreCroisieristes": 47,
+    "nuiteesTouristiques": 2069,
+    "dureeSejourMoyenne": 13.9
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 39086,
+    "nombreCroisieristes": 3958,
+    "nuiteesTouristiques": 1026652,
+    "dureeSejourMoyenne": 26.3
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 7888,
+    "nombreCroisieristes": 600,
+    "nuiteesTouristiques": 87237,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 171,
+    "nombreCroisieristes": 35,
+    "nuiteesTouristiques": 2799,
+    "dureeSejourMoyenne": 16.4
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 230,
+    "nombreCroisieristes": 94,
+    "nuiteesTouristiques": 3031,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 455,
+    "nombreCroisieristes": 76,
+    "nuiteesTouristiques": 6678,
+    "dureeSejourMoyenne": 14.7
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 254,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 3101,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 3980,
+    "nombreCroisieristes": 904,
+    "nuiteesTouristiques": 47503,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 392,
+    "nombreCroisieristes": 78,
+    "nuiteesTouristiques": 4752,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 395,
+    "nombreCroisieristes": 88,
+    "nuiteesTouristiques": 5560,
+    "dureeSejourMoyenne": 14.1
+  },
+  {
+    "annee": 2016,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2831,
+    "nombreCroisieristes": 668,
+    "nuiteesTouristiques": 52810,
+    "dureeSejourMoyenne": 18.7
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 9757,
+    "nombreCroisieristes": 2426,
+    "nuiteesTouristiques": 108506,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 237,
+    "nombreCroisieristes": 6,
+    "nuiteesTouristiques": 3319,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 328,
+    "nombreCroisieristes": 101,
+    "nuiteesTouristiques": 3443,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 94,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 1239,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 4206,
+    "nombreCroisieristes": 252,
+    "nuiteesTouristiques": 73526,
+    "dureeSejourMoyenne": 17.5
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 7221,
+    "nombreCroisieristes": 1277,
+    "nuiteesTouristiques": 73456,
+    "dureeSejourMoyenne": 10.2
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 58,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 394,
+    "dureeSejourMoyenne": 6.8
+  },
+  {
+    "annee": 2016,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 31,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 300,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2016,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 603,
+    "nombreCroisieristes": 79,
+    "nuiteesTouristiques": 6202,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2015,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 255,
+    "nombreCroisieristes": 60,
+    "nuiteesTouristiques": 5697,
+    "dureeSejourMoyenne": 22.3
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 46,
+    "nombreCroisieristes": 17,
+    "nuiteesTouristiques": 475,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 1061,
+    "nombreCroisieristes": 302,
+    "nuiteesTouristiques": 10580,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 8402,
+    "nombreCroisieristes": 4311,
+    "nuiteesTouristiques": 103910,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 2074,
+    "nombreCroisieristes": 548,
+    "nuiteesTouristiques": 23903,
+    "dureeSejourMoyenne": 11.5
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 61831,
+    "nombreCroisieristes": 18139,
+    "nuiteesTouristiques": 618649,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 974,
+    "nombreCroisieristes": 168,
+    "nuiteesTouristiques": 13215,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 566,
+    "nombreCroisieristes": 175,
+    "nuiteesTouristiques": 6753,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2357,
+    "nombreCroisieristes": 253,
+    "nuiteesTouristiques": 26972,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2015,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1731,
+    "nombreCroisieristes": 138,
+    "nuiteesTouristiques": 20621,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 27,
+    "nombreCroisieristes": 12,
+    "nuiteesTouristiques": 501,
+    "dureeSejourMoyenne": 18.6
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 5555,
+    "nombreCroisieristes": 267,
+    "nuiteesTouristiques": 49458,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 1020,
+    "nombreCroisieristes": 19,
+    "nuiteesTouristiques": 8760,
+    "dureeSejourMoyenne": 8.6
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 469,
+    "nombreCroisieristes": 82,
+    "nuiteesTouristiques": 5171,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 541,
+    "nombreCroisieristes": 32,
+    "nuiteesTouristiques": 4189,
+    "dureeSejourMoyenne": 7.7
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 127,
+    "nombreCroisieristes": 67,
+    "nuiteesTouristiques": 1891,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 11447,
+    "nombreCroisieristes": 272,
+    "nuiteesTouristiques": 84604,
+    "dureeSejourMoyenne": 7.4
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 166,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 1720,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 220,
+    "nombreCroisieristes": 160,
+    "nuiteesTouristiques": 2213,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 310,
+    "nombreCroisieristes": 40,
+    "nuiteesTouristiques": 3735,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 446,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 4780,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2015,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 154,
+    "nombreCroisieristes": 20,
+    "nuiteesTouristiques": 3929,
+    "dureeSejourMoyenne": 25.5
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3538,
+    "nombreCroisieristes": 1045,
+    "nuiteesTouristiques": 56357,
+    "dureeSejourMoyenne": 15.9
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1286,
+    "nombreCroisieristes": 294,
+    "nuiteesTouristiques": 18693,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 599,
+    "nombreCroisieristes": 173,
+    "nuiteesTouristiques": 9664,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 923,
+    "nombreCroisieristes": 241,
+    "nuiteesTouristiques": 18043,
+    "dureeSejourMoyenne": 19.5
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 227,
+    "nombreCroisieristes": 57,
+    "nuiteesTouristiques": 3528,
+    "dureeSejourMoyenne": 15.5
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2608,
+    "nombreCroisieristes": 165,
+    "nuiteesTouristiques": 26735,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 38,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 290,
+    "dureeSejourMoyenne": 7.6
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 35765,
+    "nombreCroisieristes": 3187,
+    "nuiteesTouristiques": 975433,
+    "dureeSejourMoyenne": 27.3
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 7993,
+    "nombreCroisieristes": 428,
+    "nuiteesTouristiques": 98216,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 153,
+    "nombreCroisieristes": 56,
+    "nuiteesTouristiques": 2576,
+    "dureeSejourMoyenne": 16.8
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 242,
+    "nombreCroisieristes": 75,
+    "nuiteesTouristiques": 3817,
+    "dureeSejourMoyenne": 15.8
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 467,
+    "nombreCroisieristes": 79,
+    "nuiteesTouristiques": 6800,
+    "dureeSejourMoyenne": 14.6
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 249,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 3757,
+    "dureeSejourMoyenne": 15.1
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 4711,
+    "nombreCroisieristes": 1261,
+    "nuiteesTouristiques": 58046,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 448,
+    "nombreCroisieristes": 94,
+    "nuiteesTouristiques": 5746,
+    "dureeSejourMoyenne": 12.8
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 443,
+    "nombreCroisieristes": 134,
+    "nuiteesTouristiques": 6196,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2015,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2845,
+    "nombreCroisieristes": 597,
+    "nuiteesTouristiques": 54703,
+    "dureeSejourMoyenne": 19.2
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 9167,
+    "nombreCroisieristes": 2023,
+    "nuiteesTouristiques": 106092,
+    "dureeSejourMoyenne": 11.6
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 37,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 592,
+    "dureeSejourMoyenne": 16
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 299,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 5097,
+    "dureeSejourMoyenne": 17
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 102,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 903,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 4185,
+    "nombreCroisieristes": 127,
+    "nuiteesTouristiques": 72850,
+    "dureeSejourMoyenne": 17.4
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 7315,
+    "nombreCroisieristes": 913,
+    "nuiteesTouristiques": 76695,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 85,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 833,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2015,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 4,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 21,
+    "dureeSejourMoyenne": 5.3
+  },
+  {
+    "annee": 2015,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 323,
+    "nombreCroisieristes": 39,
+    "nuiteesTouristiques": 4811,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2014,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 286,
+    "nombreCroisieristes": 63,
+    "nuiteesTouristiques": 5747,
+    "dureeSejourMoyenne": 20.1
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 50,
+    "nombreCroisieristes": 16,
+    "nuiteesTouristiques": 603,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 1010,
+    "nombreCroisieristes": 287,
+    "nuiteesTouristiques": 12266,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 9270,
+    "nombreCroisieristes": 4970,
+    "nuiteesTouristiques": 119213,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 2187,
+    "nombreCroisieristes": 488,
+    "nuiteesTouristiques": 27769,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 60076,
+    "nombreCroisieristes": 19201,
+    "nuiteesTouristiques": 629259,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 840,
+    "nombreCroisieristes": 210,
+    "nuiteesTouristiques": 11996,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 519,
+    "nombreCroisieristes": 149,
+    "nuiteesTouristiques": 6102,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2767,
+    "nombreCroisieristes": 463,
+    "nuiteesTouristiques": 33293,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2014,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1421,
+    "nombreCroisieristes": 147,
+    "nuiteesTouristiques": 17147,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 27,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 470,
+    "dureeSejourMoyenne": 17.4
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 3268,
+    "nombreCroisieristes": 223,
+    "nuiteesTouristiques": 29488,
+    "dureeSejourMoyenne": 9
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 746,
+    "nombreCroisieristes": 64,
+    "nuiteesTouristiques": 6228,
+    "dureeSejourMoyenne": 8.3
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 453,
+    "nombreCroisieristes": 60,
+    "nuiteesTouristiques": 5505,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 422,
+    "nombreCroisieristes": 31,
+    "nuiteesTouristiques": 3852,
+    "dureeSejourMoyenne": 9.1
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 84,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 1215,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 12527,
+    "nombreCroisieristes": 461,
+    "nuiteesTouristiques": 86121,
+    "dureeSejourMoyenne": 6.9
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 108,
+    "nombreCroisieristes": 24,
+    "nuiteesTouristiques": 977,
+    "dureeSejourMoyenne": 9
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 148,
+    "nombreCroisieristes": 62,
+    "nuiteesTouristiques": 1682,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 318,
+    "nombreCroisieristes": 45,
+    "nuiteesTouristiques": 3773,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 144,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 1335,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2014,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 43,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 515,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4028,
+    "nombreCroisieristes": 1411,
+    "nuiteesTouristiques": 62292,
+    "dureeSejourMoyenne": 15.5
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1053,
+    "nombreCroisieristes": 212,
+    "nuiteesTouristiques": 14724,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 740,
+    "nombreCroisieristes": 266,
+    "nuiteesTouristiques": 10857,
+    "dureeSejourMoyenne": 14.7
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 997,
+    "nombreCroisieristes": 250,
+    "nuiteesTouristiques": 21029,
+    "dureeSejourMoyenne": 21.1
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 216,
+    "nombreCroisieristes": 68,
+    "nuiteesTouristiques": 4379,
+    "dureeSejourMoyenne": 20.3
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2782,
+    "nombreCroisieristes": 189,
+    "nuiteesTouristiques": 28635,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 73,
+    "nombreCroisieristes": 17,
+    "nuiteesTouristiques": 851,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 34887,
+    "nombreCroisieristes": 3104,
+    "nuiteesTouristiques": 977605,
+    "dureeSejourMoyenne": 28
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 7887,
+    "nombreCroisieristes": 519,
+    "nuiteesTouristiques": 104907,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 137,
+    "nombreCroisieristes": 26,
+    "nuiteesTouristiques": 2218,
+    "dureeSejourMoyenne": 16.2
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 218,
+    "nombreCroisieristes": 42,
+    "nuiteesTouristiques": 2677,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 367,
+    "nombreCroisieristes": 46,
+    "nuiteesTouristiques": 5009,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 209,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 3192,
+    "dureeSejourMoyenne": 15.3
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 4834,
+    "nombreCroisieristes": 1355,
+    "nuiteesTouristiques": 57746,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 640,
+    "nombreCroisieristes": 146,
+    "nuiteesTouristiques": 8684,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 446,
+    "nombreCroisieristes": 167,
+    "nuiteesTouristiques": 5915,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2014,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2911,
+    "nombreCroisieristes": 775,
+    "nuiteesTouristiques": 55127,
+    "dureeSejourMoyenne": 18.9
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 9315,
+    "nombreCroisieristes": 1902,
+    "nuiteesTouristiques": 103586,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 93,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 1451,
+    "dureeSejourMoyenne": 15.6
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 191,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 2469,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 124,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 1663,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 4111,
+    "nombreCroisieristes": 201,
+    "nuiteesTouristiques": 72611,
+    "dureeSejourMoyenne": 17.7
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 7136,
+    "nombreCroisieristes": 844,
+    "nuiteesTouristiques": 74619,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 104,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 889,
+    "dureeSejourMoyenne": 8.5
+  },
+  {
+    "annee": 2014,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 18,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 210,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2014,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 371,
+    "nombreCroisieristes": 64,
+    "nuiteesTouristiques": 4879,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2013,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 309,
+    "nombreCroisieristes": 46,
+    "nuiteesTouristiques": 4715,
+    "dureeSejourMoyenne": 15.3
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 94,
+    "nombreCroisieristes": 29,
+    "nuiteesTouristiques": 983,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 884,
+    "nombreCroisieristes": 194,
+    "nuiteesTouristiques": 9202,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7206,
+    "nombreCroisieristes": 2974,
+    "nuiteesTouristiques": 89888,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 1883,
+    "nombreCroisieristes": 436,
+    "nuiteesTouristiques": 23008,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 51750,
+    "nombreCroisieristes": 12198,
+    "nuiteesTouristiques": 514729,
+    "dureeSejourMoyenne": 9.9
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1087,
+    "nombreCroisieristes": 228,
+    "nuiteesTouristiques": 14930,
+    "dureeSejourMoyenne": 13.7
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 716,
+    "nombreCroisieristes": 123,
+    "nuiteesTouristiques": 8741,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 3064,
+    "nombreCroisieristes": 437,
+    "nuiteesTouristiques": 32673,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2013,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1624,
+    "nombreCroisieristes": 170,
+    "nuiteesTouristiques": 19288,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 57,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1641,
+    "dureeSejourMoyenne": 28.8
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 1876,
+    "nombreCroisieristes": 127,
+    "nuiteesTouristiques": 17737,
+    "dureeSejourMoyenne": 9.5
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 568,
+    "nombreCroisieristes": 26,
+    "nuiteesTouristiques": 4101,
+    "dureeSejourMoyenne": 7.2
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 240,
+    "nombreCroisieristes": 19,
+    "nuiteesTouristiques": 2646,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 521,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 5448,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 98,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 1418,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 13175,
+    "nombreCroisieristes": 281,
+    "nuiteesTouristiques": 85883,
+    "dureeSejourMoyenne": 6.5
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 120,
+    "nombreCroisieristes": 14,
+    "nuiteesTouristiques": 1888,
+    "dureeSejourMoyenne": 15.7
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 131,
+    "nombreCroisieristes": 69,
+    "nuiteesTouristiques": 1450,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 257,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 4369,
+    "dureeSejourMoyenne": 17
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 260,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 2334,
+    "dureeSejourMoyenne": 9
+  },
+  {
+    "annee": 2013,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 81,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 1425,
+    "dureeSejourMoyenne": 17.6
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3477,
+    "nombreCroisieristes": 1037,
+    "nuiteesTouristiques": 51078,
+    "dureeSejourMoyenne": 14.7
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1341,
+    "nombreCroisieristes": 225,
+    "nuiteesTouristiques": 17245,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 577,
+    "nombreCroisieristes": 179,
+    "nuiteesTouristiques": 8588,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 858,
+    "nombreCroisieristes": 178,
+    "nuiteesTouristiques": 16405,
+    "dureeSejourMoyenne": 19.1
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 156,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 2323,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 2426,
+    "nombreCroisieristes": 173,
+    "nuiteesTouristiques": 26542,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 89,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 1690,
+    "dureeSejourMoyenne": 19
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 32946,
+    "nombreCroisieristes": 2992,
+    "nuiteesTouristiques": 880944,
+    "dureeSejourMoyenne": 26.7
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 8103,
+    "nombreCroisieristes": 450,
+    "nuiteesTouristiques": 94934,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 60,
+    "nombreCroisieristes": 19,
+    "nuiteesTouristiques": 924,
+    "dureeSejourMoyenne": 15.4
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 296,
+    "nombreCroisieristes": 120,
+    "nuiteesTouristiques": 3819,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 454,
+    "nombreCroisieristes": 46,
+    "nuiteesTouristiques": 5849,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 224,
+    "nombreCroisieristes": 17,
+    "nuiteesTouristiques": 3599,
+    "dureeSejourMoyenne": 16.1
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 3255,
+    "nombreCroisieristes": 778,
+    "nuiteesTouristiques": 38785,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 847,
+    "nombreCroisieristes": 153,
+    "nuiteesTouristiques": 12268,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 273,
+    "nombreCroisieristes": 58,
+    "nuiteesTouristiques": 4529,
+    "dureeSejourMoyenne": 16.6
+  },
+  {
+    "annee": 2013,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2663,
+    "nombreCroisieristes": 523,
+    "nuiteesTouristiques": 47997,
+    "dureeSejourMoyenne": 18
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 9167,
+    "nombreCroisieristes": 1464,
+    "nuiteesTouristiques": 100828,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 241,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 3496,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 212,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 2783,
+    "dureeSejourMoyenne": 13.1
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 88,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1015,
+    "dureeSejourMoyenne": 11.5
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 3826,
+    "nombreCroisieristes": 197,
+    "nuiteesTouristiques": 64696,
+    "dureeSejourMoyenne": 16.9
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 6477,
+    "nombreCroisieristes": 893,
+    "nuiteesTouristiques": 66644,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 39,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 1853,
+    "dureeSejourMoyenne": 47.5
+  },
+  {
+    "annee": 2013,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 21,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 138,
+    "dureeSejourMoyenne": 6.6
+  },
+  {
+    "annee": 2013,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 276,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 3654,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2012,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 288,
+    "nombreCroisieristes": 48,
+    "nuiteesTouristiques": 5238,
+    "dureeSejourMoyenne": 18.2
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 175,
+    "nombreCroisieristes": 46,
+    "nuiteesTouristiques": 1920,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 1067,
+    "nombreCroisieristes": 194,
+    "nuiteesTouristiques": 10642,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7034,
+    "nombreCroisieristes": 2806,
+    "nuiteesTouristiques": 86936,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 1837,
+    "nombreCroisieristes": 324,
+    "nuiteesTouristiques": 23956,
+    "dureeSejourMoyenne": 13
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 51004,
+    "nombreCroisieristes": 11411,
+    "nuiteesTouristiques": 499287,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1264,
+    "nombreCroisieristes": 136,
+    "nuiteesTouristiques": 16649,
+    "dureeSejourMoyenne": 13.2
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 699,
+    "nombreCroisieristes": 95,
+    "nuiteesTouristiques": 7801,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2787,
+    "nombreCroisieristes": 188,
+    "nuiteesTouristiques": 30054,
+    "dureeSejourMoyenne": 10.8
+  },
+  {
+    "annee": 2012,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1328,
+    "nombreCroisieristes": 52,
+    "nuiteesTouristiques": 14937,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 37,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 971,
+    "dureeSejourMoyenne": 26.2
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 1183,
+    "nombreCroisieristes": 78,
+    "nuiteesTouristiques": 10978,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 682,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 5696,
+    "dureeSejourMoyenne": 8.4
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 301,
+    "nombreCroisieristes": 29,
+    "nuiteesTouristiques": 3478,
+    "dureeSejourMoyenne": 11.6
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 460,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 3969,
+    "dureeSejourMoyenne": 8.6
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 65,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 2171,
+    "dureeSejourMoyenne": 33.4
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 12989,
+    "nombreCroisieristes": 264,
+    "nuiteesTouristiques": 86552,
+    "dureeSejourMoyenne": 6.7
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 134,
+    "nombreCroisieristes": 31,
+    "nuiteesTouristiques": 2030,
+    "dureeSejourMoyenne": 15.1
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 91,
+    "nombreCroisieristes": 34,
+    "nuiteesTouristiques": 1293,
+    "dureeSejourMoyenne": 14.2
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 244,
+    "nombreCroisieristes": 37,
+    "nuiteesTouristiques": 2468,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 239,
+    "nombreCroisieristes": 32,
+    "nuiteesTouristiques": 2515,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2012,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 80,
+    "nombreCroisieristes": 6,
+    "nuiteesTouristiques": 1750,
+    "dureeSejourMoyenne": 21.9
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3552,
+    "nombreCroisieristes": 946,
+    "nuiteesTouristiques": 52577,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1795,
+    "nombreCroisieristes": 296,
+    "nuiteesTouristiques": 22435,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 619,
+    "nombreCroisieristes": 170,
+    "nuiteesTouristiques": 9294,
+    "dureeSejourMoyenne": 15
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 882,
+    "nombreCroisieristes": 201,
+    "nuiteesTouristiques": 17845,
+    "dureeSejourMoyenne": 20.2
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 197,
+    "nombreCroisieristes": 52,
+    "nuiteesTouristiques": 3449,
+    "dureeSejourMoyenne": 17.5
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 3004,
+    "nombreCroisieristes": 189,
+    "nuiteesTouristiques": 29869,
+    "dureeSejourMoyenne": 9.9
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 194,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 1850,
+    "dureeSejourMoyenne": 9.5
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 35898,
+    "nombreCroisieristes": 2996,
+    "nuiteesTouristiques": 956527,
+    "dureeSejourMoyenne": 26.6
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 9409,
+    "nombreCroisieristes": 524,
+    "nuiteesTouristiques": 103466,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 135,
+    "nombreCroisieristes": 29,
+    "nuiteesTouristiques": 2060,
+    "dureeSejourMoyenne": 15.3
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 244,
+    "nombreCroisieristes": 68,
+    "nuiteesTouristiques": 4155,
+    "dureeSejourMoyenne": 17
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 432,
+    "nombreCroisieristes": 40,
+    "nuiteesTouristiques": 6159,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 251,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 3120,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 2617,
+    "nombreCroisieristes": 597,
+    "nuiteesTouristiques": 30288,
+    "dureeSejourMoyenne": 11.6
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 587,
+    "nombreCroisieristes": 96,
+    "nuiteesTouristiques": 7499,
+    "dureeSejourMoyenne": 12.8
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 286,
+    "nombreCroisieristes": 61,
+    "nuiteesTouristiques": 3573,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2012,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2559,
+    "nombreCroisieristes": 584,
+    "nuiteesTouristiques": 47100,
+    "dureeSejourMoyenne": 18.4
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 10224,
+    "nombreCroisieristes": 1498,
+    "nuiteesTouristiques": 108364,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 306,
+    "nombreCroisieristes": 16,
+    "nuiteesTouristiques": 5777,
+    "dureeSejourMoyenne": 18.9
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 215,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 2715,
+    "dureeSejourMoyenne": 12.6
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 92,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 1005,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 4022,
+    "nombreCroisieristes": 134,
+    "nuiteesTouristiques": 64395,
+    "dureeSejourMoyenne": 16
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 7166,
+    "nombreCroisieristes": 821,
+    "nuiteesTouristiques": 68155,
+    "dureeSejourMoyenne": 9.5
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 24,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 326,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2012,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 12,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 140,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2012,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 268,
+    "nombreCroisieristes": 41,
+    "nuiteesTouristiques": 3477,
+    "dureeSejourMoyenne": 13
+  },
+  {
+    "annee": 2011,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 272,
+    "nombreCroisieristes": 60,
+    "nuiteesTouristiques": 5171,
+    "dureeSejourMoyenne": 19
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 137,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 1385,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 1033,
+    "nombreCroisieristes": 171,
+    "nuiteesTouristiques": 9206,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7458,
+    "nombreCroisieristes": 3136,
+    "nuiteesTouristiques": 88141,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 1672,
+    "nombreCroisieristes": 273,
+    "nuiteesTouristiques": 20536,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 47710,
+    "nombreCroisieristes": 11592,
+    "nuiteesTouristiques": 460436,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1098,
+    "nombreCroisieristes": 120,
+    "nuiteesTouristiques": 13683,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 578,
+    "nombreCroisieristes": 130,
+    "nuiteesTouristiques": 6203,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2530,
+    "nombreCroisieristes": 184,
+    "nuiteesTouristiques": 26337,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2011,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1328,
+    "nombreCroisieristes": 61,
+    "nuiteesTouristiques": 14967,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 77,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 2019,
+    "dureeSejourMoyenne": 26.2
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 978,
+    "nombreCroisieristes": 75,
+    "nuiteesTouristiques": 9164,
+    "dureeSejourMoyenne": 9.4
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 506,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 4667,
+    "dureeSejourMoyenne": 9.2
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 214,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 2451,
+    "dureeSejourMoyenne": 11.5
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 432,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 3105,
+    "dureeSejourMoyenne": 7.2
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 86,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 1171,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 12990,
+    "nombreCroisieristes": 255,
+    "nuiteesTouristiques": 85537,
+    "dureeSejourMoyenne": 6.6
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 72,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 1083,
+    "dureeSejourMoyenne": 15
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 121,
+    "nombreCroisieristes": 73,
+    "nuiteesTouristiques": 1206,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 200,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 1898,
+    "dureeSejourMoyenne": 9.5
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 158,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 1943,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2011,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 137,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 2304,
+    "dureeSejourMoyenne": 16.8
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 3604,
+    "nombreCroisieristes": 1208,
+    "nuiteesTouristiques": 49204,
+    "dureeSejourMoyenne": 13.7
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1914,
+    "nombreCroisieristes": 503,
+    "nuiteesTouristiques": 24396,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 688,
+    "nombreCroisieristes": 216,
+    "nuiteesTouristiques": 9604,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 852,
+    "nombreCroisieristes": 163,
+    "nuiteesTouristiques": 15898,
+    "dureeSejourMoyenne": 18.7
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 162,
+    "nombreCroisieristes": 47,
+    "nuiteesTouristiques": 2314,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 3475,
+    "nombreCroisieristes": 226,
+    "nuiteesTouristiques": 34498,
+    "dureeSejourMoyenne": 9.9
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 205,
+    "nombreCroisieristes": 29,
+    "nuiteesTouristiques": 2341,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 35835,
+    "nombreCroisieristes": 2915,
+    "nuiteesTouristiques": 946675,
+    "dureeSejourMoyenne": 26.4
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 10471,
+    "nombreCroisieristes": 726,
+    "nuiteesTouristiques": 117760,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 109,
+    "nombreCroisieristes": 21,
+    "nuiteesTouristiques": 1958,
+    "dureeSejourMoyenne": 18
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 201,
+    "nombreCroisieristes": 44,
+    "nuiteesTouristiques": 2779,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 487,
+    "nombreCroisieristes": 62,
+    "nuiteesTouristiques": 6340,
+    "dureeSejourMoyenne": 13
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 374,
+    "nombreCroisieristes": 69,
+    "nuiteesTouristiques": 4164,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 2671,
+    "nombreCroisieristes": 732,
+    "nuiteesTouristiques": 28418,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 699,
+    "nombreCroisieristes": 152,
+    "nuiteesTouristiques": 8762,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 283,
+    "nombreCroisieristes": 53,
+    "nuiteesTouristiques": 3854,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2011,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2242,
+    "nombreCroisieristes": 485,
+    "nuiteesTouristiques": 39206,
+    "dureeSejourMoyenne": 17.5
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 8236,
+    "nombreCroisieristes": 1394,
+    "nuiteesTouristiques": 88400,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 350,
+    "nombreCroisieristes": 12,
+    "nuiteesTouristiques": 5406,
+    "dureeSejourMoyenne": 15.4
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 284,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 3183,
+    "dureeSejourMoyenne": 11.2
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 139,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 1777,
+    "dureeSejourMoyenne": 12.8
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 3946,
+    "nombreCroisieristes": 159,
+    "nuiteesTouristiques": 62938,
+    "dureeSejourMoyenne": 15.9
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 5484,
+    "nombreCroisieristes": 770,
+    "nuiteesTouristiques": 53681,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 54,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1029,
+    "dureeSejourMoyenne": 19.1
+  },
+  {
+    "annee": 2011,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 23,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 190,
+    "dureeSejourMoyenne": 8.3
+  },
+  {
+    "annee": 2011,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 201,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 2691,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2010,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 275,
+    "nombreCroisieristes": 51,
+    "nuiteesTouristiques": 5868,
+    "dureeSejourMoyenne": 21.3
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 134,
+    "nombreCroisieristes": 39,
+    "nuiteesTouristiques": 1582,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 814,
+    "nombreCroisieristes": 249,
+    "nuiteesTouristiques": 8992,
+    "dureeSejourMoyenne": 11
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 5468,
+    "nombreCroisieristes": 2229,
+    "nuiteesTouristiques": 67846,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 1620,
+    "nombreCroisieristes": 291,
+    "nuiteesTouristiques": 19443,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 39394,
+    "nombreCroisieristes": 10198,
+    "nuiteesTouristiques": 395188,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1253,
+    "nombreCroisieristes": 202,
+    "nuiteesTouristiques": 14430,
+    "dureeSejourMoyenne": 11.5
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 440,
+    "nombreCroisieristes": 91,
+    "nuiteesTouristiques": 5361,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2360,
+    "nombreCroisieristes": 297,
+    "nuiteesTouristiques": 27606,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2010,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1849,
+    "nombreCroisieristes": 235,
+    "nuiteesTouristiques": 18556,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 56,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 1169,
+    "dureeSejourMoyenne": 20.9
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 1143,
+    "nombreCroisieristes": 104,
+    "nuiteesTouristiques": 10923,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 686,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 4459,
+    "dureeSejourMoyenne": 6.5
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 1,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 1,
+    "dureeSejourMoyenne": 1
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 318,
+    "nombreCroisieristes": 12,
+    "nuiteesTouristiques": 2501,
+    "dureeSejourMoyenne": 7.9
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 98,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 1696,
+    "dureeSejourMoyenne": 17.3
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 13761,
+    "nombreCroisieristes": 243,
+    "nuiteesTouristiques": 85818,
+    "dureeSejourMoyenne": 6.2
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 104,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 1180,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 176,
+    "nombreCroisieristes": 100,
+    "nuiteesTouristiques": 1414,
+    "dureeSejourMoyenne": 8
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 200,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 2320,
+    "dureeSejourMoyenne": 11.6
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 91,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 824,
+    "dureeSejourMoyenne": 9.1
+  },
+  {
+    "annee": 2010,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 81,
+    "nombreCroisieristes": 8,
+    "nuiteesTouristiques": 1269,
+    "dureeSejourMoyenne": 15.7
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4256,
+    "nombreCroisieristes": 1678,
+    "nuiteesTouristiques": 57119,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 1653,
+    "nombreCroisieristes": 272,
+    "nuiteesTouristiques": 21172,
+    "dureeSejourMoyenne": 12.8
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 757,
+    "nombreCroisieristes": 305,
+    "nuiteesTouristiques": 10872,
+    "dureeSejourMoyenne": 14.4
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 796,
+    "nombreCroisieristes": 176,
+    "nuiteesTouristiques": 15682,
+    "dureeSejourMoyenne": 19.7
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 236,
+    "nombreCroisieristes": 64,
+    "nuiteesTouristiques": 3748,
+    "dureeSejourMoyenne": 15.9
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 4104,
+    "nombreCroisieristes": 271,
+    "nuiteesTouristiques": 39447,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 232,
+    "nombreCroisieristes": 29,
+    "nuiteesTouristiques": 2807,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 36544,
+    "nombreCroisieristes": 2959,
+    "nuiteesTouristiques": 920660,
+    "dureeSejourMoyenne": 25.2
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 11208,
+    "nombreCroisieristes": 978,
+    "nuiteesTouristiques": 126849,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 198,
+    "nombreCroisieristes": 78,
+    "nuiteesTouristiques": 3071,
+    "dureeSejourMoyenne": 15.5
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 158,
+    "nombreCroisieristes": 42,
+    "nuiteesTouristiques": 2308,
+    "dureeSejourMoyenne": 14.6
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 565,
+    "nombreCroisieristes": 86,
+    "nuiteesTouristiques": 7656,
+    "dureeSejourMoyenne": 13.6
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 311,
+    "nombreCroisieristes": 22,
+    "nuiteesTouristiques": 3139,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 2840,
+    "nombreCroisieristes": 642,
+    "nuiteesTouristiques": 31034,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 519,
+    "nombreCroisieristes": 95,
+    "nuiteesTouristiques": 6133,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 324,
+    "nombreCroisieristes": 106,
+    "nuiteesTouristiques": 4195,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2010,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 1860,
+    "nombreCroisieristes": 417,
+    "nuiteesTouristiques": 33199,
+    "dureeSejourMoyenne": 17.8
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 6945,
+    "nombreCroisieristes": 1266,
+    "nuiteesTouristiques": 74142,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 342,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 5539,
+    "dureeSejourMoyenne": 16.2
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 265,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 2999,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 108,
+    "nombreCroisieristes": 4,
+    "nuiteesTouristiques": 1312,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 3940,
+    "nombreCroisieristes": 111,
+    "nuiteesTouristiques": 60058,
+    "dureeSejourMoyenne": 15.2
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 5128,
+    "nombreCroisieristes": 613,
+    "nuiteesTouristiques": 49768,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 72,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 1503,
+    "dureeSejourMoyenne": 20.9
+  },
+  {
+    "annee": 2010,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 5,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 53,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2010,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 231,
+    "nombreCroisieristes": 24,
+    "nuiteesTouristiques": 3353,
+    "dureeSejourMoyenne": 14.5
+  },
+  {
+    "annee": 2009,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 278,
+    "nombreCroisieristes": 52,
+    "nuiteesTouristiques": 4321,
+    "dureeSejourMoyenne": 15.5
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 135,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 1650,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 745,
+    "nombreCroisieristes": 234,
+    "nuiteesTouristiques": 7439,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 4265,
+    "nombreCroisieristes": 1795,
+    "nuiteesTouristiques": 52840,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 1638,
+    "nombreCroisieristes": 261,
+    "nuiteesTouristiques": 18544,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 39134,
+    "nombreCroisieristes": 14911,
+    "nuiteesTouristiques": 395485,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1433,
+    "nombreCroisieristes": 379,
+    "nuiteesTouristiques": 16997,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 605,
+    "nombreCroisieristes": 102,
+    "nuiteesTouristiques": 6367,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2047,
+    "nombreCroisieristes": 225,
+    "nuiteesTouristiques": 23186,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2009,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1706,
+    "nombreCroisieristes": 185,
+    "nuiteesTouristiques": 16704,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 79,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 1200,
+    "dureeSejourMoyenne": 15.2
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 543,
+    "nombreCroisieristes": 35,
+    "nuiteesTouristiques": 5021,
+    "dureeSejourMoyenne": 9.2
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 765,
+    "nombreCroisieristes": 32,
+    "nuiteesTouristiques": 4680,
+    "dureeSejourMoyenne": 6.1
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 99,
+    "nombreCroisieristes": 20,
+    "nuiteesTouristiques": 881,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 289,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 2291,
+    "dureeSejourMoyenne": 7.9
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 128,
+    "nombreCroisieristes": 29,
+    "nuiteesTouristiques": 2450,
+    "dureeSejourMoyenne": 19.1
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 16353,
+    "nombreCroisieristes": 294,
+    "nuiteesTouristiques": 102346,
+    "dureeSejourMoyenne": 6.3
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 62,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 1005,
+    "dureeSejourMoyenne": 16.2
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 187,
+    "nombreCroisieristes": 106,
+    "nuiteesTouristiques": 2029,
+    "dureeSejourMoyenne": 10.9
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 191,
+    "nombreCroisieristes": 13,
+    "nuiteesTouristiques": 2121,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 188,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 1598,
+    "dureeSejourMoyenne": 8.5
+  },
+  {
+    "annee": 2009,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 106,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 3462,
+    "dureeSejourMoyenne": 32.7
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4346,
+    "nombreCroisieristes": 1678,
+    "nuiteesTouristiques": 60118,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 2347,
+    "nombreCroisieristes": 538,
+    "nuiteesTouristiques": 27937,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 999,
+    "nombreCroisieristes": 441,
+    "nuiteesTouristiques": 12730,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 995,
+    "nombreCroisieristes": 217,
+    "nuiteesTouristiques": 17870,
+    "dureeSejourMoyenne": 18
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 228,
+    "nombreCroisieristes": 34,
+    "nuiteesTouristiques": 3955,
+    "dureeSejourMoyenne": 17.3
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 4554,
+    "nombreCroisieristes": 379,
+    "nuiteesTouristiques": 43749,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 234,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 2245,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 39256,
+    "nombreCroisieristes": 3007,
+    "nuiteesTouristiques": 936340,
+    "dureeSejourMoyenne": 23.9
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 11944,
+    "nombreCroisieristes": 1011,
+    "nuiteesTouristiques": 137994,
+    "dureeSejourMoyenne": 11.6
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 143,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 2065,
+    "dureeSejourMoyenne": 14.4
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 168,
+    "nombreCroisieristes": 45,
+    "nuiteesTouristiques": 2159,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 676,
+    "nombreCroisieristes": 117,
+    "nuiteesTouristiques": 8127,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 337,
+    "nombreCroisieristes": 33,
+    "nuiteesTouristiques": 3292,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 3482,
+    "nombreCroisieristes": 1112,
+    "nuiteesTouristiques": 36631,
+    "dureeSejourMoyenne": 10.5
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 601,
+    "nombreCroisieristes": 98,
+    "nuiteesTouristiques": 7811,
+    "dureeSejourMoyenne": 13
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 411,
+    "nombreCroisieristes": 125,
+    "nuiteesTouristiques": 4863,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2009,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2136,
+    "nombreCroisieristes": 500,
+    "nuiteesTouristiques": 37043,
+    "dureeSejourMoyenne": 17.3
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 6557,
+    "nombreCroisieristes": 1349,
+    "nuiteesTouristiques": 66511,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 557,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 8939,
+    "dureeSejourMoyenne": 16
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 268,
+    "nombreCroisieristes": 5,
+    "nuiteesTouristiques": 2741,
+    "dureeSejourMoyenne": 10.2
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 131,
+    "nombreCroisieristes": 5,
+    "nuiteesTouristiques": 1220,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 3875,
+    "nombreCroisieristes": 136,
+    "nuiteesTouristiques": 57359,
+    "dureeSejourMoyenne": 14.8
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 4914,
+    "nombreCroisieristes": 554,
+    "nuiteesTouristiques": 47125,
+    "dureeSejourMoyenne": 9.6
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 75,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 802,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2009,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 36,
+    "nombreCroisieristes": 0,
+    "nuiteesTouristiques": 348,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2009,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 201,
+    "nombreCroisieristes": 21,
+    "nuiteesTouristiques": 2364,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2008,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 338,
+    "nombreCroisieristes": 87,
+    "nuiteesTouristiques": 5424,
+    "dureeSejourMoyenne": 16
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 108,
+    "nombreCroisieristes": 28,
+    "nuiteesTouristiques": 1487,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 1200,
+    "nombreCroisieristes": 483,
+    "nuiteesTouristiques": 12164,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7271,
+    "nombreCroisieristes": 3344,
+    "nuiteesTouristiques": 88554,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 1728,
+    "nombreCroisieristes": 321,
+    "nuiteesTouristiques": 20896,
+    "dureeSejourMoyenne": 12.1
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 53621,
+    "nombreCroisieristes": 21924,
+    "nuiteesTouristiques": 551266,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1951,
+    "nombreCroisieristes": 748,
+    "nuiteesTouristiques": 22090,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 574,
+    "nombreCroisieristes": 101,
+    "nuiteesTouristiques": 6358,
+    "dureeSejourMoyenne": 11.1
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2455,
+    "nombreCroisieristes": 388,
+    "nuiteesTouristiques": 29419.716796875,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2008,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1585,
+    "nombreCroisieristes": 170,
+    "nuiteesTouristiques": 16435,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 51,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 635,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 388,
+    "nombreCroisieristes": 78,
+    "nuiteesTouristiques": 3792,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 650,
+    "nombreCroisieristes": 67,
+    "nuiteesTouristiques": 4432,
+    "dureeSejourMoyenne": 6.8
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 259,
+    "nombreCroisieristes": 38,
+    "nuiteesTouristiques": 2795,
+    "dureeSejourMoyenne": 10.8
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 246,
+    "nombreCroisieristes": 46,
+    "nuiteesTouristiques": 2185,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 83,
+    "nombreCroisieristes": 33,
+    "nuiteesTouristiques": 1489,
+    "dureeSejourMoyenne": 17.9
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 18769,
+    "nombreCroisieristes": 418,
+    "nuiteesTouristiques": 116798,
+    "dureeSejourMoyenne": 6.2
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 70,
+    "nombreCroisieristes": 5,
+    "nuiteesTouristiques": 1045,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 202,
+    "nombreCroisieristes": 137,
+    "nuiteesTouristiques": 2145,
+    "dureeSejourMoyenne": 10.6
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 202,
+    "nombreCroisieristes": 24,
+    "nuiteesTouristiques": 1894,
+    "dureeSejourMoyenne": 9.4
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 195,
+    "nombreCroisieristes": 19,
+    "nuiteesTouristiques": 1895,
+    "dureeSejourMoyenne": 9.7
+  },
+  {
+    "annee": 2008,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 111,
+    "nombreCroisieristes": 24,
+    "nuiteesTouristiques": 1957,
+    "dureeSejourMoyenne": 17.6
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4511,
+    "nombreCroisieristes": 1749,
+    "nuiteesTouristiques": 60993,
+    "dureeSejourMoyenne": 13.5
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 2422,
+    "nombreCroisieristes": 488,
+    "nuiteesTouristiques": 28734,
+    "dureeSejourMoyenne": 11.9
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 998,
+    "nombreCroisieristes": 512,
+    "nuiteesTouristiques": 13032,
+    "dureeSejourMoyenne": 13.1
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 2025,
+    "nombreCroisieristes": 1149,
+    "nuiteesTouristiques": 27862,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 259,
+    "nombreCroisieristes": 76,
+    "nuiteesTouristiques": 4222,
+    "dureeSejourMoyenne": 16.3
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 5960,
+    "nombreCroisieristes": 521,
+    "nuiteesTouristiques": 55473,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 301,
+    "nombreCroisieristes": 45,
+    "nuiteesTouristiques": 3809,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 42374,
+    "nombreCroisieristes": 3814,
+    "nuiteesTouristiques": 1005332.296875,
+    "dureeSejourMoyenne": 23.7
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 13802,
+    "nombreCroisieristes": 1285,
+    "nuiteesTouristiques": 159250,
+    "dureeSejourMoyenne": 11.5
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 168,
+    "nombreCroisieristes": 46,
+    "nuiteesTouristiques": 2610,
+    "dureeSejourMoyenne": 15.5
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 272,
+    "nombreCroisieristes": 96,
+    "nuiteesTouristiques": 3521,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 726,
+    "nombreCroisieristes": 144,
+    "nuiteesTouristiques": 9083,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 470,
+    "nombreCroisieristes": 75,
+    "nuiteesTouristiques": 5551,
+    "dureeSejourMoyenne": 11.8
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 4977,
+    "nombreCroisieristes": 1593,
+    "nuiteesTouristiques": 51372,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 805,
+    "nombreCroisieristes": 109,
+    "nuiteesTouristiques": 10545,
+    "dureeSejourMoyenne": 13.1
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 528,
+    "nombreCroisieristes": 192,
+    "nuiteesTouristiques": 6425,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2008,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2240,
+    "nombreCroisieristes": 599,
+    "nuiteesTouristiques": 39202,
+    "dureeSejourMoyenne": 17.5
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 10228,
+    "nombreCroisieristes": 1829,
+    "nuiteesTouristiques": 95417,
+    "dureeSejourMoyenne": 9.3
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 362,
+    "nombreCroisieristes": 12,
+    "nuiteesTouristiques": 5179,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 309,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 2761,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 96,
+    "nombreCroisieristes": 2,
+    "nuiteesTouristiques": 1124,
+    "dureeSejourMoyenne": 11.7
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 3815,
+    "nombreCroisieristes": 94,
+    "nuiteesTouristiques": 54744.7890625,
+    "dureeSejourMoyenne": 14.3
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 6545,
+    "nombreCroisieristes": 563,
+    "nuiteesTouristiques": 57801,
+    "dureeSejourMoyenne": 8.8
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 46,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 1002,
+    "dureeSejourMoyenne": 21.8
+  },
+  {
+    "annee": 2008,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 18,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 344,
+    "dureeSejourMoyenne": 19.1
+  },
+  {
+    "annee": 2008,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 182,
+    "nombreCroisieristes": 18,
+    "nuiteesTouristiques": 2260,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2007,
+    "region": "Afrique",
+    "pays": "Afrique",
+    "iso3": null,
+    "nombreTouristes": 764,
+    "nombreCroisieristes": 130,
+    "nuiteesTouristiques": 14219.3046875,
+    "dureeSejourMoyenne": 18.6
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique Centrale",
+    "pays": "Autre Amérique Centrale",
+    "iso3": null,
+    "nombreTouristes": 229,
+    "nombreCroisieristes": 58,
+    "nuiteesTouristiques": 2238.166015625,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique Centrale",
+    "pays": "Mexique",
+    "iso3": "MEX",
+    "nombreTouristes": 1373,
+    "nombreCroisieristes": 548,
+    "nuiteesTouristiques": 15638.568359375,
+    "dureeSejourMoyenne": 11.4
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Nord",
+    "pays": "Canada",
+    "iso3": "CAN",
+    "nombreTouristes": 7301,
+    "nombreCroisieristes": 3400,
+    "nuiteesTouristiques": 90130.564453125,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Nord",
+    "pays": "Hawaii",
+    "iso3": "USA",
+    "nombreTouristes": 639,
+    "nombreCroisieristes": 60,
+    "nuiteesTouristiques": 8127.482421875,
+    "dureeSejourMoyenne": 12.7
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Nord",
+    "pays": "USA",
+    "iso3": "USA",
+    "nombreTouristes": 64910,
+    "nombreCroisieristes": 23126,
+    "nuiteesTouristiques": 654033.333984375,
+    "dureeSejourMoyenne": 10.1
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Sud",
+    "pays": "Argentine",
+    "iso3": "ARG",
+    "nombreTouristes": 1797,
+    "nombreCroisieristes": 554,
+    "nuiteesTouristiques": 22419.35546875,
+    "dureeSejourMoyenne": 12.5
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Sud",
+    "pays": "Autre Amérique du Sud",
+    "iso3": null,
+    "nombreTouristes": 678,
+    "nombreCroisieristes": 116,
+    "nuiteesTouristiques": 8766.0087890625,
+    "dureeSejourMoyenne": 12.9
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Sud",
+    "pays": "Brésil",
+    "iso3": "BRA",
+    "nombreTouristes": 2654,
+    "nombreCroisieristes": 623,
+    "nuiteesTouristiques": 31749,
+    "dureeSejourMoyenne": 12
+  },
+  {
+    "annee": 2007,
+    "region": "Amérique du Sud",
+    "pays": "Chili",
+    "iso3": "CHL",
+    "nombreTouristes": 1864,
+    "nombreCroisieristes": 229,
+    "nuiteesTouristiques": 19201.935546875,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Autre Asie",
+    "iso3": null,
+    "nombreTouristes": 163,
+    "nombreCroisieristes": 25,
+    "nuiteesTouristiques": 2290,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Chine",
+    "iso3": "CHN",
+    "nombreTouristes": 440,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 4310.564453125,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Corée du Sud",
+    "iso3": "KOR",
+    "nombreTouristes": 571,
+    "nombreCroisieristes": 16,
+    "nuiteesTouristiques": 3979.6689453125,
+    "dureeSejourMoyenne": 7
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Hong Kong",
+    "iso3": "HKG",
+    "nombreTouristes": 140,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 1502,
+    "dureeSejourMoyenne": 10.7
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Inde",
+    "iso3": "IND",
+    "nombreTouristes": 224,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 3010.5,
+    "dureeSejourMoyenne": 13.4
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Indonésie",
+    "iso3": "IDN",
+    "nombreTouristes": 96,
+    "nombreCroisieristes": 27,
+    "nuiteesTouristiques": 2195,
+    "dureeSejourMoyenne": 22.9
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Japon",
+    "iso3": "JPN",
+    "nombreTouristes": 23240,
+    "nombreCroisieristes": 433,
+    "nuiteesTouristiques": 164295.243164063,
+    "dureeSejourMoyenne": 7.1
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Malaisie",
+    "iso3": "MYS",
+    "nombreTouristes": 88,
+    "nombreCroisieristes": 15,
+    "nuiteesTouristiques": 1088,
+    "dureeSejourMoyenne": 12.4
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Philippines",
+    "iso3": "PHL",
+    "nombreTouristes": 238,
+    "nombreCroisieristes": 150,
+    "nuiteesTouristiques": 3276.123046875,
+    "dureeSejourMoyenne": 13.8
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Singapour",
+    "iso3": "SGP",
+    "nombreTouristes": 227,
+    "nombreCroisieristes": 36,
+    "nuiteesTouristiques": 2462.529296875,
+    "dureeSejourMoyenne": 10.8
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Taïwan",
+    "iso3": "TWN",
+    "nombreTouristes": 91,
+    "nombreCroisieristes": 10,
+    "nuiteesTouristiques": 1282,
+    "dureeSejourMoyenne": 14.1
+  },
+  {
+    "annee": 2007,
+    "region": "Asie",
+    "pays": "Thaïlande",
+    "iso3": "THA",
+    "nombreTouristes": 79,
+    "nombreCroisieristes": 9,
+    "nuiteesTouristiques": 1645.099609375,
+    "dureeSejourMoyenne": 20.8
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Allemagne",
+    "iso3": "DEU",
+    "nombreTouristes": 4426,
+    "nombreCroisieristes": 1401,
+    "nuiteesTouristiques": 59541.92578125,
+    "dureeSejourMoyenne": 13.5
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Autre Europe",
+    "iso3": null,
+    "nombreTouristes": 2603,
+    "nombreCroisieristes": 486,
+    "nuiteesTouristiques": 41263.7900390625,
+    "dureeSejourMoyenne": 15.9
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Autriche",
+    "iso3": "AUT",
+    "nombreTouristes": 963,
+    "nombreCroisieristes": 311,
+    "nuiteesTouristiques": 15044.189453125,
+    "dureeSejourMoyenne": 15.6
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Belgique",
+    "iso3": "BEL",
+    "nombreTouristes": 1007,
+    "nombreCroisieristes": 225,
+    "nuiteesTouristiques": 19088.890625,
+    "dureeSejourMoyenne": 19
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Danemark",
+    "iso3": "DNK",
+    "nombreTouristes": 225,
+    "nombreCroisieristes": 30,
+    "nuiteesTouristiques": 3154.375,
+    "dureeSejourMoyenne": 14
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Espagne",
+    "iso3": "ESP",
+    "nombreTouristes": 6292,
+    "nombreCroisieristes": 719,
+    "nuiteesTouristiques": 63122.642578125,
+    "dureeSejourMoyenne": 10
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Finlande",
+    "iso3": "FIN",
+    "nombreTouristes": 577,
+    "nombreCroisieristes": 81,
+    "nuiteesTouristiques": 5922.8583984375,
+    "dureeSejourMoyenne": 10.3
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "France",
+    "iso3": "FRA",
+    "nombreTouristes": 43161,
+    "nombreCroisieristes": 2850,
+    "nuiteesTouristiques": 1050727.98828125,
+    "dureeSejourMoyenne": 24.3
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Italie",
+    "iso3": "ITA",
+    "nombreTouristes": 14385,
+    "nombreCroisieristes": 1193,
+    "nuiteesTouristiques": 181538.55078125,
+    "dureeSejourMoyenne": 12.6
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Luxembourg",
+    "iso3": "LUX",
+    "nombreTouristes": 140,
+    "nombreCroisieristes": 23,
+    "nuiteesTouristiques": 2786.798828125,
+    "dureeSejourMoyenne": 19.9
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Norvège",
+    "iso3": "NOR",
+    "nombreTouristes": 329,
+    "nombreCroisieristes": 59,
+    "nuiteesTouristiques": 3773.20703125,
+    "dureeSejourMoyenne": 11.5
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Pays-Bas",
+    "iso3": "NLD",
+    "nombreTouristes": 566,
+    "nombreCroisieristes": 65,
+    "nuiteesTouristiques": 6881.087890625,
+    "dureeSejourMoyenne": 12.2
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Portugal",
+    "iso3": "PRT",
+    "nombreTouristes": 499,
+    "nombreCroisieristes": 78,
+    "nuiteesTouristiques": 6629.029296875,
+    "dureeSejourMoyenne": 13.3
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Royaume-Uni",
+    "iso3": "GBR",
+    "nombreTouristes": 6233,
+    "nombreCroisieristes": 1715,
+    "nuiteesTouristiques": 61033.4443359375,
+    "dureeSejourMoyenne": 9.8
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Russie",
+    "iso3": "RUS",
+    "nombreTouristes": 744,
+    "nombreCroisieristes": 145,
+    "nuiteesTouristiques": 10338.650390625,
+    "dureeSejourMoyenne": 13.9
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Suède",
+    "iso3": "SWE",
+    "nombreTouristes": 558,
+    "nombreCroisieristes": 80,
+    "nuiteesTouristiques": 6880.615234375,
+    "dureeSejourMoyenne": 12.3
+  },
+  {
+    "annee": 2007,
+    "region": "Europe",
+    "pays": "Suisse",
+    "iso3": "CHE",
+    "nombreTouristes": 2497,
+    "nombreCroisieristes": 546,
+    "nuiteesTouristiques": 45089.501953125,
+    "dureeSejourMoyenne": 18.1
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Australie",
+    "iso3": "AUS",
+    "nombreTouristes": 11746,
+    "nombreCroisieristes": 1985,
+    "nuiteesTouristiques": 108571.607421875,
+    "dureeSejourMoyenne": 9.2
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Autre Pacifique",
+    "iso3": null,
+    "nombreTouristes": 385,
+    "nombreCroisieristes": 11,
+    "nuiteesTouristiques": 6270.853515625,
+    "dureeSejourMoyenne": 16.3
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Cook",
+    "iso3": "COK",
+    "nombreTouristes": 464,
+    "nombreCroisieristes": 7,
+    "nuiteesTouristiques": 3788.240234375,
+    "dureeSejourMoyenne": 8.2
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Fidji",
+    "iso3": "FJI",
+    "nombreTouristes": 181,
+    "nombreCroisieristes": 17,
+    "nuiteesTouristiques": 1887,
+    "dureeSejourMoyenne": 10.4
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Calédonie",
+    "iso3": "NCL",
+    "nombreTouristes": 3761,
+    "nombreCroisieristes": 58,
+    "nuiteesTouristiques": 56182.505859375,
+    "dureeSejourMoyenne": 14.9
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Nouvelle-Zélande",
+    "iso3": "NZL",
+    "nombreTouristes": 8198,
+    "nombreCroisieristes": 1029,
+    "nuiteesTouristiques": 72574.2421875,
+    "dureeSejourMoyenne": 8.9
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Samoa",
+    "iso3": "WSM",
+    "nombreTouristes": 86,
+    "nombreCroisieristes": 1,
+    "nuiteesTouristiques": 2197.75,
+    "dureeSejourMoyenne": 25.6
+  },
+  {
+    "annee": 2007,
+    "region": "Pacifique",
+    "pays": "Tonga",
+    "iso3": "TON",
+    "nombreTouristes": 66,
+    "nombreCroisieristes": 3,
+    "nuiteesTouristiques": 742.99951171875,
+    "dureeSejourMoyenne": 11.3
+  },
+  {
+    "annee": 2007,
+    "region": "Proche et Moyen Orient",
+    "pays": "Proche et Moyen Orient",
+    "iso3": null,
+    "nombreTouristes": 343,
+    "nombreCroisieristes": 41,
+    "nuiteesTouristiques": 4307.83984375,
+    "dureeSejourMoyenne": 12.6
+  }
+]
