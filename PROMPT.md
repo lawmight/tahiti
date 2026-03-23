@@ -90,15 +90,199 @@ Le principe central est un **système d'onglets extensible** : chaque onglet est
 
 ---
 
-## Ce que je te laisse décider
+## Décisions techniques validées (à suivre)
 
-- La structure exacte des fichiers et dossiers
-- La librairie de graphiques (Recharts, Chart.js, Nivo, ECharts…)
-- L'ordre dans lequel tu implémentes les modules
-- Quelles analyses du registre des entreprises (`exportrte.xlsx`) sont les plus pertinentes — explore les données et décide toi-même
-- Le mécanisme de chargement des données (pré-conversion en JSON, chargement dynamique via SheetJS côté client, etc.)
+- **Stack** : Vite + React, TypeScript, **Recharts** pour les graphiques, **SheetJS (xlsx)** pour la lecture/conversion.
+- **Aucun backend** : tout doit tourner dans le navigateur.
+- **Stratégie données** :
+  - Les 4 fichiers légers (`10202.xlsx`, `11201.xlsx`, `11207.xlsx`, `11801.xlsx`) sont **pré-convertis en JSON** à l’étape de build.
+  - `exportrte.xlsx` (RNTE, 190K lignes) n’est **pas chargé brut** dans le navigateur : on génère uniquement des **agrégats JSON**.
+- **Langue** : 100% du texte visible en français.
 
----
+## Architecture imposée (plugin/tab)
+
+### Objectif
+Chaque onglet est un module autonome enregistré dans un registre central. Ajouter un module ne doit pas nécessiter de refactoriser les autres modules : on ajoute un dossier de module + un enregistrement.
+
+### Structure de fichiers attendue
+
+```
+./
+├── 10202.xlsx
+├── 11201.xlsx
+├── 11207.xlsx
+├── 11801.xlsx
+├── exportrte.xlsx
+├── NEXT_STEPS.md
+├── package.json
+├── scripts/
+│   └── convert-xlsx-to-json.mjs
+├── public/
+│   └── data/
+│       ├── 10202.json
+│       ├── 11201.json
+│       ├── 11207.json
+│       ├── 11801.json
+│       ├── rnte-par-commune.json
+│       ├── rnte-par-naf.json
+│       ├── rnte-par-fjur.json
+│       ├── rnte-par-effectifs.json
+│       ├── rnte-dynamique.json
+│       └── naf-codes.json
+└── src/
+    ├── App.tsx
+    ├── registry.ts
+    ├── components/
+    │   ├── ErrorBoundary.tsx
+    │   ├── LoadingSpinner.tsx
+    │   └── TabBar.tsx
+    ├── modules/
+    │   ├── imports/
+    │   │   ├── index.tsx
+    │   │   └── meta.ts
+    │   ├── tourisme-mensuel/
+    │   │   ├── index.tsx
+    │   │   └── meta.ts
+    │   ├── tourisme-pays/
+    │   │   ├── index.tsx
+    │   │   └── meta.ts
+    │   ├── trafic-aerien/
+    │   │   ├── index.tsx
+    │   │   └── meta.ts
+    │   └── entreprises/
+    │       ├── index.tsx
+    │       └── meta.ts
+    └── utils/
+        ├── dateUtils.ts
+        ├── formatters.ts
+        ├── nafLookup.ts
+        └── formeJuridique.ts
+```
+
+### Registre central (contrat de module)
+
+Créer `src/registry.ts` avec ce contrat :
+
+- `id`: string unique
+- `label`: string FR affichée dans l’onglet
+- `source`: nom du fichier source (ex: `10202.xlsx`)
+- `description`: string FR
+- `component`: composant React (lazy)
+- `order`: number (ordre d’affichage)
+
+API minimale :
+- `registerModule(meta)`
+- `getModules()`
+
+### Enregistrement d’un module
+
+Chaque module a :
+- `src/modules/<module>/index.tsx`: UI + chargement data JSON
+- `src/modules/<module>/meta.ts`: enregistrement dans le registre via `registerModule`
+
+Pour ajouter un 6ᵉ onglet :
+- créer `src/modules/nouveau/` avec `index.tsx` + `meta.ts`
+- ajouter **une seule ligne** d’import dans `src/App.tsx` : `import './modules/nouveau/meta';`
+
+## Utilitaires obligatoires (à centraliser)
+
+### `src/utils/dateUtils.ts`
+
+- `excelSerialToDate(serial: unknown): Date | null` :
+  - base `1899-12-30` en UTC
+  - utiliser `Math.floor` (dates Excel parfois décimales)
+- `formatDateFR(date: Date | null, variant: 'long'|'short'|'month-year'): string`
+
+### `src/utils/formatters.ts`
+
+- `formatXPF(value: unknown): string` (XPF, k/M/Md, séparateurs fr-FR)
+- `formatNumberFR(value: unknown): string`
+- `formatPercentFR(value: unknown, digits?: number): string`
+
+### `src/utils/nafLookup.ts`
+
+- Charger `public/data/naf-codes.json` (issu de `SocialGouv/codes-naf`).
+- `getNafLabel(code: unknown): string` :
+  - essai exact
+  - fallback sans la lettre finale (`01.11Z` → `01.11`)
+  - fallback `"Code inconnu (XXX)"`.
+
+### `src/utils/formeJuridique.ts`
+
+- Table de correspondance des codes `code_Fjur` (au minimum : EI, SARL, SAS, associations) + fallback `"Forme juridique <code>"`.
+
+### `src/utils/formatters.ts` (classes effectifs)
+
+- Table `CLASSES_EFFECTIFS` :
+  - `01`: 0 salarié
+  - `02`: 1 à 2
+  - `03`: 3 à 5
+  - `04`: 6 à 9
+  - `05`: 10 à 19
+  - `06`: 20 à 49
+  - `07`: 50 à 99
+  - `08`: 100 à 199
+  - `09`: 200 à 499
+  - `10`: 500 et plus
+
+## Script de pré-conversion (obligatoire)
+
+Créer `scripts/convert-xlsx-to-json.mjs` qui :
+
+1. Convertit `10202.xlsx`, `11201.xlsx`, `11207.xlsx`, `11801.xlsx` en JSON dans `public/data/<name>.json`.
+2. Convertit `Mois` (séries Excel) en `YYYY-MM-DD` (UTC) pour les datasets mensuels (`11201`, `11801`).
+3. Télécharge ou embarque `naf-codes.json` (source : `SocialGouv/codes-naf`) dans `public/data/naf-codes.json`.
+4. Pour `exportrte.xlsx`, génère **uniquement** les agrégats suivants :
+   - `public/data/rnte-par-commune.json`
+   - `public/data/rnte-par-naf.json`
+   - `public/data/rnte-par-fjur.json`
+   - `public/data/rnte-par-effectifs.json`
+   - `public/data/rnte-dynamique.json` (inscriptions/radiations par année)
+
+Règle dure : le script ne doit pas produire un `exportrte.json` complet.
+
+## Analyses recommandées par module (Recharts)
+
+### Module 1 — Imports (`10202.xlsx`)
+- BarChart horizontal : top 15 pays par valeur
+- ComposedChart : Pareto (barres valeur + ligne cumulée %)
+- ScatterChart : ratio valeur/poids (valeur unitaire proxy)
+
+### Module 2 — Tourisme mensuel (`11201.xlsx`)
+- LineChart multi-séries : touristes par région (2007–2025)
+- AreaChart 100% empilé : part des régions dans le total
+- Heatmap (custom) : mois × année pour la saisonnalité
+
+### Module 3 — Tourisme par pays (`11207.xlsx`)
+- BarChart + sélecteur d’année : top 10 pays (touristes)
+- ComposedChart : touristes vs croisiéristes
+- Treemap (optionnel) : pays par région
+
+### Module 4 — Trafic aérien (`11801.xlsx`)
+- LineChart : passagers (1987–2025), choc COVID visible
+- ComposedChart double axe : taux de remplissage vs sièges offerts
+- AreaChart : fret embarqué vs débarqué
+
+### Module 5 — Entreprises (RNTE)
+- Vues basées uniquement sur agrégats :
+  - top communes
+  - top secteurs NAF
+  - formes juridiques
+  - classes d’effectifs
+  - dynamique inscriptions/radiations
+  - taux d’actives vs radiées
+
+## Dépendances NPM exactes (à respecter)
+
+Dans `package.json` :
+- `react`, `react-dom`
+- `recharts`
+- SheetJS via tarball : `https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz`
+- Vite + plugin React
+
+Ajouter des scripts :
+- `convert`: exécute `node scripts/convert-xlsx-to-json.mjs`
+- `dev`, `build`, `preview`
 
 ## Informations complémentaires pour le LLM
 
