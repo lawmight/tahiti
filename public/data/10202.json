@@ -1,0 +1,1050 @@
+[
+  {
+    "annee": 2023,
+    "pays": "Afghanistan",
+    "iso2": "AF",
+    "valeurImports": 203114,
+    "poidsImports": 1204.612,
+    "valeurParKg": 168.61362828861076
+  },
+  {
+    "annee": 2023,
+    "pays": "Afrique du Sud",
+    "iso2": "ZA",
+    "valeurImports": 405388262,
+    "poidsImports": 183970.31,
+    "valeurParKg": 2203.5526384665004
+  },
+  {
+    "annee": 2023,
+    "pays": "Albanie",
+    "iso2": "AL",
+    "valeurImports": 24189611,
+    "poidsImports": 9315.763,
+    "valeurParKg": 2596.632288734696
+  },
+  {
+    "annee": 2023,
+    "pays": "Algérie",
+    "iso2": "DZ",
+    "valeurImports": 5054820,
+    "poidsImports": 12045.223,
+    "valeurParKg": 419.6535008110684
+  },
+  {
+    "annee": 2023,
+    "pays": "Allemagne",
+    "iso2": "DE",
+    "valeurImports": 8803414839,
+    "poidsImports": 6606514.93500001,
+    "valeurParKg": 1332.5353723732992
+  },
+  {
+    "annee": 2023,
+    "pays": "Andorre",
+    "iso2": "AD",
+    "valeurImports": 297901,
+    "poidsImports": 124.493,
+    "valeurParKg": 2392.9136577960207
+  },
+  {
+    "annee": 2023,
+    "pays": "Argentine",
+    "iso2": "AR",
+    "valeurImports": 179424040,
+    "poidsImports": 659030.232,
+    "valeurParKg": 272.25464218157447
+  },
+  {
+    "annee": 2023,
+    "pays": "Australie",
+    "iso2": "AU",
+    "valeurImports": 6071521476,
+    "poidsImports": 22264419.361,
+    "valeurParKg": 272.70064301049433
+  },
+  {
+    "annee": 2023,
+    "pays": "Autriche",
+    "iso2": "AT",
+    "valeurImports": 636338283,
+    "poidsImports": 709607.14,
+    "valeurParKg": 896.7472945663991
+  },
+  {
+    "annee": 2023,
+    "pays": "Azerbaïdjan",
+    "iso2": "AZ",
+    "valeurImports": 99776,
+    "poidsImports": 39.82,
+    "valeurParKg": 2505.6755399296835
+  },
+  {
+    "annee": 2023,
+    "pays": "Bangladesh",
+    "iso2": "BD",
+    "valeurImports": 494860423,
+    "poidsImports": 257693.33,
+    "valeurParKg": 1920.3462619696056
+  },
+  {
+    "annee": 2023,
+    "pays": "Barbade",
+    "iso2": "BB",
+    "valeurImports": 3783159,
+    "poidsImports": 3255.239,
+    "valeurParKg": 1162.1754961770855
+  },
+  {
+    "annee": 2023,
+    "pays": "Belgique",
+    "iso2": "BE",
+    "valeurImports": 5063617922,
+    "poidsImports": 11272180.721,
+    "valeurParKg": 449.21369230414416
+  },
+  {
+    "annee": 2023,
+    "pays": "Belize",
+    "iso2": "BZ",
+    "valeurImports": 180055,
+    "poidsImports": 52.315,
+    "valeurParKg": 3441.7471088597918
+  },
+  {
+    "annee": 2023,
+    "pays": "Biélorussie",
+    "iso2": "BY",
+    "valeurImports": 1198103,
+    "poidsImports": 231.292,
+    "valeurParKg": 5180.045137747955
+  },
+  {
+    "annee": 2023,
+    "pays": "Bolivie",
+    "iso2": "BO",
+    "valeurImports": 16675904,
+    "poidsImports": 52099.175,
+    "valeurParKg": 320.0800012668147
+  },
+  {
+    "annee": 2023,
+    "pays": "Bosnie-Herzégovine",
+    "iso2": "BA",
+    "valeurImports": 11309377,
+    "poidsImports": 8908.086,
+    "valeurParKg": 1269.5630688792185
+  },
+  {
+    "annee": 2023,
+    "pays": "Brésil",
+    "iso2": "BR",
+    "valeurImports": 863001981,
+    "poidsImports": 1334426.39,
+    "valeurParKg": 646.7213084717248
+  },
+  {
+    "annee": 2023,
+    "pays": "Bulgarie",
+    "iso2": "BG",
+    "valeurImports": 318287385,
+    "poidsImports": 302907.29,
+    "valeurParKg": 1050.774925225471
+  },
+  {
+    "annee": 2023,
+    "pays": "Cameroun",
+    "iso2": "CM",
+    "valeurImports": 7781655,
+    "poidsImports": 34530.383,
+    "valeurParKg": 225.3567532106435
+  },
+  {
+    "annee": 2023,
+    "pays": "Canada",
+    "iso2": "CA",
+    "valeurImports": 1670379860,
+    "poidsImports": 5880377.424,
+    "valeurParKg": 284.0599743109278
+  },
+  {
+    "annee": 2023,
+    "pays": "Chili",
+    "iso2": "CL",
+    "valeurImports": 220497498,
+    "poidsImports": 640606.344,
+    "valeurParKg": 344.2012400676444
+  },
+  {
+    "annee": 2023,
+    "pays": "Chine",
+    "iso2": "CN",
+    "valeurImports": 34526153391,
+    "poidsImports": 48792079.1570001,
+    "valeurParKg": 707.6179984030584
+  },
+  {
+    "annee": 2023,
+    "pays": "Chypre",
+    "iso2": "CY",
+    "valeurImports": 88272400,
+    "poidsImports": 64142.074,
+    "valeurParKg": 1376.2012123274967
+  },
+  {
+    "annee": 2023,
+    "pays": "Colombie",
+    "iso2": "CO",
+    "valeurImports": 28383968,
+    "poidsImports": 11930.978,
+    "valeurParKg": 2379.0143607674077
+  },
+  {
+    "annee": 2023,
+    "pays": "Comores",
+    "iso2": "KM",
+    "valeurImports": 57794,
+    "poidsImports": 13.512,
+    "valeurParKg": 4277.235050325637
+  },
+  {
+    "annee": 2023,
+    "pays": "Corée du Nord",
+    "iso2": "KP",
+    "valeurImports": 10483906,
+    "poidsImports": 1687.482,
+    "valeurParKg": 6212.751306384305
+  },
+  {
+    "annee": 2023,
+    "pays": "Corée du Sud",
+    "iso2": "KR",
+    "valeurImports": 21817445007,
+    "poidsImports": 170516733.924,
+    "valeurParKg": 127.94899658777258
+  },
+  {
+    "annee": 2023,
+    "pays": "Costa Rica",
+    "iso2": "CR",
+    "valeurImports": 46158911,
+    "poidsImports": 6536.47,
+    "valeurParKg": 7061.749078631126
+  },
+  {
+    "annee": 2023,
+    "pays": "Côte d'Ivoire",
+    "iso2": "CI",
+    "valeurImports": 3959002,
+    "poidsImports": 2976.034,
+    "valeurParKg": 1330.294613569603
+  },
+  {
+    "annee": 2023,
+    "pays": "Croatie",
+    "iso2": "HR",
+    "valeurImports": 38315830,
+    "poidsImports": 103441.11,
+    "valeurParKg": 370.4120151069531
+  },
+  {
+    "annee": 2023,
+    "pays": "Cuba",
+    "iso2": "CU",
+    "valeurImports": 10081050,
+    "poidsImports": 10385.634,
+    "valeurParKg": 970.6725655843446
+  },
+  {
+    "annee": 2023,
+    "pays": "Danemark",
+    "iso2": "DK",
+    "valeurImports": 742190033,
+    "poidsImports": 797083.32,
+    "valeurParKg": 931.1323099823492
+  },
+  {
+    "annee": 2023,
+    "pays": "Egypte",
+    "iso2": "EG",
+    "valeurImports": 81958349,
+    "poidsImports": 383967.102,
+    "valeurParKg": 213.45148730997272
+  },
+  {
+    "annee": 2023,
+    "pays": "El Salvador",
+    "iso2": "SV",
+    "valeurImports": 3080133,
+    "poidsImports": 1372.276,
+    "valeurParKg": 2244.5433717415444
+  },
+  {
+    "annee": 2023,
+    "pays": "Emirats Arabes Unis",
+    "iso2": "AE",
+    "valeurImports": 59616444,
+    "poidsImports": 140219.718,
+    "valeurParKg": 425.1644836427356
+  },
+  {
+    "annee": 2023,
+    "pays": "Equateur",
+    "iso2": "EC",
+    "valeurImports": 36796083,
+    "poidsImports": 56768.104,
+    "valeurParKg": 648.1823490176807
+  },
+  {
+    "annee": 2023,
+    "pays": "Espagne",
+    "iso2": "ES",
+    "valeurImports": 5681654977,
+    "poidsImports": 13091434.01,
+    "valeurParKg": 433.9979083009563
+  },
+  {
+    "annee": 2023,
+    "pays": "Estonie",
+    "iso2": "EE",
+    "valeurImports": 148778030,
+    "poidsImports": 49986.163,
+    "valeurParKg": 2976.3842845869167
+  },
+  {
+    "annee": 2023,
+    "pays": "Etats-Unis d'Amérique",
+    "iso2": "US",
+    "valeurImports": 23144262535,
+    "poidsImports": 35439364.85,
+    "valeurParKg": 653.0665160890997
+  },
+  {
+    "annee": 2023,
+    "pays": "Fidji",
+    "iso2": "FJ",
+    "valeurImports": 640391384,
+    "poidsImports": 3804227.716,
+    "valeurParKg": 168.33676420226155
+  },
+  {
+    "annee": 2023,
+    "pays": "Finlande",
+    "iso2": "FI",
+    "valeurImports": 230789099,
+    "poidsImports": 72889,
+    "valeurParKg": 3166.3090315411105
+  },
+  {
+    "annee": 2023,
+    "pays": "France",
+    "iso2": "FR",
+    "valeurImports": 59371615067,
+    "poidsImports": 94827774.0309999,
+    "valeurParKg": 626.099427870056
+  },
+  {
+    "annee": 2023,
+    "pays": "Géorgie",
+    "iso2": "GE",
+    "valeurImports": 1172158,
+    "poidsImports": 998.976,
+    "valeurParKg": 1173.359520148632
+  },
+  {
+    "annee": 2023,
+    "pays": "Ghana",
+    "iso2": "GH",
+    "valeurImports": 1431314,
+    "poidsImports": 1217.257,
+    "valeurParKg": 1175.851935951077
+  },
+  {
+    "annee": 2023,
+    "pays": "Grande Bretagne",
+    "iso2": "GB",
+    "valeurImports": 2345025580,
+    "poidsImports": 1518616.504,
+    "valeurParKg": 1544.1854963535943
+  },
+  {
+    "annee": 2023,
+    "pays": "Grèce",
+    "iso2": "GR",
+    "valeurImports": 209514059,
+    "poidsImports": 280222.669,
+    "valeurParKg": 747.6699145992361
+  },
+  {
+    "annee": 2023,
+    "pays": "Guinée",
+    "iso2": "GN",
+    "valeurImports": 651696,
+    "poidsImports": 60.018,
+    "valeurParKg": 10858.342497250824
+  },
+  {
+    "annee": 2023,
+    "pays": "Guinée équatoriale",
+    "iso2": "GQ",
+    "valeurImports": 168663,
+    "poidsImports": 268.8,
+    "valeurParKg": 627.4665178571428
+  },
+  {
+    "annee": 2023,
+    "pays": "Guyana",
+    "iso2": "GY",
+    "valeurImports": 15845351,
+    "poidsImports": 65891.404,
+    "valeurParKg": 240.47675475241053
+  },
+  {
+    "annee": 2023,
+    "pays": "Haïti",
+    "iso2": "HT",
+    "valeurImports": 1637621,
+    "poidsImports": 689.745,
+    "valeurParKg": 2374.241205083038
+  },
+  {
+    "annee": 2023,
+    "pays": "Honduras",
+    "iso2": "HN",
+    "valeurImports": 7625520,
+    "poidsImports": 2627.293,
+    "valeurParKg": 2902.4246629515624
+  },
+  {
+    "annee": 2023,
+    "pays": "Hong-Kong",
+    "iso2": "HK",
+    "valeurImports": 1160443461,
+    "poidsImports": 2744318.766,
+    "valeurParKg": 422.8530137887051
+  },
+  {
+    "annee": 2023,
+    "pays": "Hongrie",
+    "iso2": "HU",
+    "valeurImports": 695474957,
+    "poidsImports": 296845.384,
+    "valeurParKg": 2342.8862110923037
+  },
+  {
+    "annee": 2023,
+    "pays": "Iles Turks et Caïques",
+    "iso2": null,
+    "valeurImports": 1509897,
+    "poidsImports": 100.19,
+    "valeurParKg": 15070.336360914263
+  },
+  {
+    "annee": 2023,
+    "pays": "Inde",
+    "iso2": "IN",
+    "valeurImports": 2194131239,
+    "poidsImports": 2596794.802,
+    "valeurParKg": 844.9382436032772
+  },
+  {
+    "annee": 2023,
+    "pays": "Indonésie",
+    "iso2": "ID",
+    "valeurImports": 3030780909,
+    "poidsImports": 49765941.165,
+    "valeurParKg": 60.90070514192394
+  },
+  {
+    "annee": 2023,
+    "pays": "Iran",
+    "iso2": "IR",
+    "valeurImports": 3447487,
+    "poidsImports": 4761.683,
+    "valeurParKg": 724.0059869588126
+  },
+  {
+    "annee": 2023,
+    "pays": "Irlande",
+    "iso2": "IE",
+    "valeurImports": 1492610896,
+    "poidsImports": 252911.78,
+    "valeurParKg": 5901.7057093979565
+  },
+  {
+    "annee": 2023,
+    "pays": "Islande",
+    "iso2": "IS",
+    "valeurImports": 26355529,
+    "poidsImports": 12537.256,
+    "valeurParKg": 2102.1768240195465
+  },
+  {
+    "annee": 2023,
+    "pays": "Israël",
+    "iso2": "IL",
+    "valeurImports": 121844587,
+    "poidsImports": 31483.391,
+    "valeurParKg": 3870.122725979549
+  },
+  {
+    "annee": 2023,
+    "pays": "Italie",
+    "iso2": "IT",
+    "valeurImports": 9289965463,
+    "poidsImports": 20148818.23,
+    "valeurParKg": 461.06751060804027
+  },
+  {
+    "annee": 2023,
+    "pays": "Jamaïque",
+    "iso2": "JM",
+    "valeurImports": 2575005,
+    "poidsImports": 2644.428,
+    "valeurParKg": 973.7474417908145
+  },
+  {
+    "annee": 2023,
+    "pays": "Japon",
+    "iso2": "JP",
+    "valeurImports": 4107031149,
+    "poidsImports": 3054992.037,
+    "valeurParKg": 1344.3672190494813
+  },
+  {
+    "annee": 2023,
+    "pays": "Jordanie",
+    "iso2": "JO",
+    "valeurImports": 2265700,
+    "poidsImports": 754.618,
+    "valeurParKg": 3002.446270828419
+  },
+  {
+    "annee": 2023,
+    "pays": "Kazakhstan",
+    "iso2": "KZ",
+    "valeurImports": 641237,
+    "poidsImports": 1044.761,
+    "valeurParKg": 613.7642963318883
+  },
+  {
+    "annee": 2023,
+    "pays": "Lettonie",
+    "iso2": "LV",
+    "valeurImports": 66895542,
+    "poidsImports": 622188.188,
+    "valeurParKg": 107.51657342617376
+  },
+  {
+    "annee": 2023,
+    "pays": "Liban",
+    "iso2": "LB",
+    "valeurImports": 12612298,
+    "poidsImports": 6437.645,
+    "valeurParKg": 1959.1477939526021
+  },
+  {
+    "annee": 2023,
+    "pays": "Libye",
+    "iso2": "LY",
+    "valeurImports": 198296,
+    "poidsImports": 41.1,
+    "valeurParKg": 4824.720194647201
+  },
+  {
+    "annee": 2023,
+    "pays": "Lituanie",
+    "iso2": "LT",
+    "valeurImports": 260723092,
+    "poidsImports": 968674.239,
+    "valeurParKg": 269.15456352917425
+  },
+  {
+    "annee": 2023,
+    "pays": "Macao",
+    "iso2": "MO",
+    "valeurImports": 158126,
+    "poidsImports": 83.578,
+    "valeurParKg": 1891.9572136208092
+  },
+  {
+    "annee": 2023,
+    "pays": "Madagascar",
+    "iso2": "MG",
+    "valeurImports": 35900105,
+    "poidsImports": 18447.482,
+    "valeurParKg": 1946.0707428797057
+  },
+  {
+    "annee": 2023,
+    "pays": "Malawi",
+    "iso2": "MW",
+    "valeurImports": 343467,
+    "poidsImports": 326.604,
+    "valeurParKg": 1051.6313333578278
+  },
+  {
+    "annee": 2023,
+    "pays": "Mali",
+    "iso2": "ML",
+    "valeurImports": 16657381,
+    "poidsImports": 14375.443,
+    "valeurParKg": 1158.7386211332757
+  },
+  {
+    "annee": 2023,
+    "pays": "Malte",
+    "iso2": "MT",
+    "valeurImports": 70080798,
+    "poidsImports": 53032.493,
+    "valeurParKg": 1321.4690472876694
+  },
+  {
+    "annee": 2023,
+    "pays": "Maroc",
+    "iso2": "MA",
+    "valeurImports": 664524555,
+    "poidsImports": 627369.652,
+    "valeurParKg": 1059.2233030105192
+  },
+  {
+    "annee": 2023,
+    "pays": "Martinique",
+    "iso2": "MQ",
+    "valeurImports": 7220155,
+    "poidsImports": 6876.302,
+    "valeurParKg": 1050.00551168346
+  },
+  {
+    "annee": 2023,
+    "pays": "Maurice",
+    "iso2": "MU",
+    "valeurImports": 17054761,
+    "poidsImports": 3347.118,
+    "valeurParKg": 5095.356960824208
+  },
+  {
+    "annee": 2023,
+    "pays": "Mauritanie",
+    "iso2": "MR",
+    "valeurImports": 21463,
+    "poidsImports": 4.232,
+    "valeurParKg": 5071.5973534971645
+  },
+  {
+    "annee": 2023,
+    "pays": "Mexique",
+    "iso2": "MX",
+    "valeurImports": 1016915857,
+    "poidsImports": 1064884.939,
+    "valeurParKg": 954.9537417206349
+  },
+  {
+    "annee": 2023,
+    "pays": "Moldavie",
+    "iso2": "MD",
+    "valeurImports": 3666899,
+    "poidsImports": 1969.612,
+    "valeurParKg": 1861.7367278428442
+  },
+  {
+    "annee": 2023,
+    "pays": "Monaco",
+    "iso2": "MC",
+    "valeurImports": 3571432,
+    "poidsImports": 1957.758,
+    "valeurParKg": 1824.2458976032788
+  },
+  {
+    "annee": 2023,
+    "pays": "Mongolie",
+    "iso2": "MN",
+    "valeurImports": 55584,
+    "poidsImports": 7.594,
+    "valeurParKg": 7319.46273373716
+  },
+  {
+    "annee": 2023,
+    "pays": "Monténégro",
+    "iso2": "ME",
+    "valeurImports": 582811,
+    "poidsImports": 161.14,
+    "valeurParKg": 3616.799056720864
+  },
+  {
+    "annee": 2023,
+    "pays": "Mozambique",
+    "iso2": "MZ",
+    "valeurImports": 89055,
+    "poidsImports": 39.604,
+    "valeurParKg": 2248.6365013634986
+  },
+  {
+    "annee": 2023,
+    "pays": "Myanmar",
+    "iso2": "MM",
+    "valeurImports": 58879133,
+    "poidsImports": 20738.173,
+    "valeurParKg": 2839.166834995542
+  },
+  {
+    "annee": 2023,
+    "pays": "Népal",
+    "iso2": "NP",
+    "valeurImports": 131747,
+    "poidsImports": 23.231,
+    "valeurParKg": 5671.172140674099
+  },
+  {
+    "annee": 2023,
+    "pays": "Nicaragua",
+    "iso2": "NI",
+    "valeurImports": 5118158,
+    "poidsImports": 1180.171,
+    "valeurParKg": 4336.793566356062
+  },
+  {
+    "annee": 2023,
+    "pays": "Niger",
+    "iso2": "NE",
+    "valeurImports": 131634,
+    "poidsImports": 15.04,
+    "valeurParKg": 8752.260638297872
+  },
+  {
+    "annee": 2023,
+    "pays": "Norvège",
+    "iso2": "NO",
+    "valeurImports": 287622996,
+    "poidsImports": 277830.441,
+    "valeurParKg": 1035.2465156976805
+  },
+  {
+    "annee": 2023,
+    "pays": "Nouvelle-Calédonie",
+    "iso2": "NC",
+    "valeurImports": 308031202,
+    "poidsImports": 489465.991,
+    "valeurParKg": 629.320949083059
+  },
+  {
+    "annee": 2023,
+    "pays": "Nouvelle-Zélande",
+    "iso2": "NZ",
+    "valeurImports": 13660219057,
+    "poidsImports": 39287564.373,
+    "valeurParKg": 347.69829270423935
+  },
+  {
+    "annee": 2023,
+    "pays": "Pakistan",
+    "iso2": "PK",
+    "valeurImports": 154120435,
+    "poidsImports": 119047.869,
+    "valeurParKg": 1294.6089358390782
+  },
+  {
+    "annee": 2023,
+    "pays": "Panama",
+    "iso2": "PA",
+    "valeurImports": 4458056,
+    "poidsImports": 681.319,
+    "valeurParKg": 6543.272681372456
+  },
+  {
+    "annee": 2023,
+    "pays": "Paraguay",
+    "iso2": "PY",
+    "valeurImports": 4192740,
+    "poidsImports": 4908.197,
+    "valeurParKg": 854.2322160255588
+  },
+  {
+    "annee": 2023,
+    "pays": "Pays non déterminés",
+    "iso2": null,
+    "valeurImports": 93924046,
+    "poidsImports": 191324.659,
+    "valeurParKg": 490.91448269613795
+  },
+  {
+    "annee": 2023,
+    "pays": "Pays non déterminés et avitail",
+    "iso2": null,
+    "valeurImports": 169915504,
+    "poidsImports": 204884.782,
+    "valeurParKg": 829.3222285293986
+  },
+  {
+    "annee": 2023,
+    "pays": "Pays-Bas",
+    "iso2": "NL",
+    "valeurImports": 3196793860,
+    "poidsImports": 11194880.61,
+    "valeurParKg": 285.5585487123833
+  },
+  {
+    "annee": 2023,
+    "pays": "Pérou",
+    "iso2": "PE",
+    "valeurImports": 54112805,
+    "poidsImports": 84297.622,
+    "valeurParKg": 641.9256405595878
+  },
+  {
+    "annee": 2023,
+    "pays": "Philippines",
+    "iso2": "PH",
+    "valeurImports": 136021453,
+    "poidsImports": 97730.695,
+    "valeurParKg": 1391.7986871985306
+  },
+  {
+    "annee": 2023,
+    "pays": "Pologne",
+    "iso2": "PL",
+    "valeurImports": 1857832128,
+    "poidsImports": 2227695.888,
+    "valeurParKg": 833.9702640776254
+  },
+  {
+    "annee": 2023,
+    "pays": "Porto Rico",
+    "iso2": "PR",
+    "valeurImports": 24148380,
+    "poidsImports": 2721.252,
+    "valeurParKg": 8873.99623408637
+  },
+  {
+    "annee": 2023,
+    "pays": "Portugal",
+    "iso2": "PT",
+    "valeurImports": 884242093,
+    "poidsImports": 1923321.518,
+    "valeurParKg": 459.74741338073045
+  },
+  {
+    "annee": 2023,
+    "pays": "République Dominicaine",
+    "iso2": "DO",
+    "valeurImports": 50151495,
+    "poidsImports": 5517.949,
+    "valeurParKg": 9088.792774271746
+  },
+  {
+    "annee": 2023,
+    "pays": "République Tchèque",
+    "iso2": "CZ",
+    "valeurImports": 984624299,
+    "poidsImports": 758248.302000001,
+    "valeurParKg": 1298.551274566519
+  },
+  {
+    "annee": 2023,
+    "pays": "Roumanie",
+    "iso2": "RO",
+    "valeurImports": 948105156,
+    "poidsImports": 634829.451000001,
+    "valeurParKg": 1493.4801063600914
+  },
+  {
+    "annee": 2023,
+    "pays": "Rwanda",
+    "iso2": "RW",
+    "valeurImports": 198026,
+    "poidsImports": 113.558,
+    "valeurParKg": 1743.831346096268
+  },
+  {
+    "annee": 2023,
+    "pays": "Saint-Marin",
+    "iso2": "SM",
+    "valeurImports": 1017920,
+    "poidsImports": 921.891,
+    "valeurParKg": 1104.1652429625628
+  },
+  {
+    "annee": 2023,
+    "pays": "Saint-Martin (Partie française",
+    "iso2": null,
+    "valeurImports": 773146,
+    "poidsImports": 452.16,
+    "valeurParKg": 1709.8947275300777
+  },
+  {
+    "annee": 2023,
+    "pays": "Saint-Martin (Partie Néerlanda",
+    "iso2": null,
+    "valeurImports": 182322,
+    "poidsImports": 19.78,
+    "valeurParKg": 9217.492416582407
+  },
+  {
+    "annee": 2023,
+    "pays": "Sénégal",
+    "iso2": "SN",
+    "valeurImports": 1619213,
+    "poidsImports": 469.37,
+    "valeurParKg": 3449.7581865053157
+  },
+  {
+    "annee": 2023,
+    "pays": "Serbie",
+    "iso2": "RS",
+    "valeurImports": 21280182,
+    "poidsImports": 15839.689,
+    "valeurParKg": 1343.4722108495944
+  },
+  {
+    "annee": 2023,
+    "pays": "Sierra Leone",
+    "iso2": "SL",
+    "valeurImports": 28173610,
+    "poidsImports": 817.735,
+    "valeurParKg": 34453.22751258048
+  },
+  {
+    "annee": 2023,
+    "pays": "Singapour",
+    "iso2": "SG",
+    "valeurImports": 2745470897,
+    "poidsImports": 4128941.392,
+    "valeurParKg": 664.9333658064188
+  },
+  {
+    "annee": 2023,
+    "pays": "Slovaquie",
+    "iso2": "SK",
+    "valeurImports": 449288877,
+    "poidsImports": 179638.542,
+    "valeurParKg": 2501.071718785159
+  },
+  {
+    "annee": 2023,
+    "pays": "Slovénie",
+    "iso2": "SI",
+    "valeurImports": 138257580,
+    "poidsImports": 186002.793,
+    "valeurParKg": 743.3091609543734
+  },
+  {
+    "annee": 2023,
+    "pays": "Sri Lanka",
+    "iso2": "LK",
+    "valeurImports": 193241020,
+    "poidsImports": 562619.142,
+    "valeurParKg": 343.4668420862225
+  },
+  {
+    "annee": 2023,
+    "pays": "Suède",
+    "iso2": "SE",
+    "valeurImports": 444056518,
+    "poidsImports": 184594.804,
+    "valeurParKg": 2405.574308581297
+  },
+  {
+    "annee": 2023,
+    "pays": "Suisse",
+    "iso2": "CH",
+    "valeurImports": 1812921914,
+    "poidsImports": 2135448.886,
+    "valeurParKg": 848.9652577898322
+  },
+  {
+    "annee": 2023,
+    "pays": "Surinam",
+    "iso2": "SR",
+    "valeurImports": 4409727,
+    "poidsImports": 7113.531,
+    "valeurParKg": 619.9069069917598
+  },
+  {
+    "annee": 2023,
+    "pays": "Syrie",
+    "iso2": "SY",
+    "valeurImports": 791203,
+    "poidsImports": 647.347,
+    "valeurParKg": 1222.2239386295141
+  },
+  {
+    "annee": 2023,
+    "pays": "Taïwan",
+    "iso2": "TW",
+    "valeurImports": 1306205047,
+    "poidsImports": 2092386.454,
+    "valeurParKg": 624.2656773575155
+  },
+  {
+    "annee": 2023,
+    "pays": "Tanzanie",
+    "iso2": "TZ",
+    "valeurImports": 256714,
+    "poidsImports": 22.145,
+    "valeurParKg": 11592.413637389931
+  },
+  {
+    "annee": 2023,
+    "pays": "Thaïlande",
+    "iso2": "TH",
+    "valeurImports": 5643060321,
+    "poidsImports": 16664386.487,
+    "valeurParKg": 338.6299474872471
+  },
+  {
+    "annee": 2023,
+    "pays": "Trinité-et-Tobago",
+    "iso2": "TT",
+    "valeurImports": 1695158,
+    "poidsImports": 1670.781,
+    "valeurParKg": 1014.5901826750484
+  },
+  {
+    "annee": 2023,
+    "pays": "Tunisie",
+    "iso2": "TN",
+    "valeurImports": 268243164,
+    "poidsImports": 610191.852,
+    "valeurParKg": 439.6046311021538
+  },
+  {
+    "annee": 2023,
+    "pays": "Turquie",
+    "iso2": "TR",
+    "valeurImports": 2205623441,
+    "poidsImports": 8747946.161,
+    "valeurParKg": 252.13043157868148
+  },
+  {
+    "annee": 2023,
+    "pays": "Ukraine",
+    "iso2": "UA",
+    "valeurImports": 152681772,
+    "poidsImports": 764676.484,
+    "valeurParKg": 199.66845482330797
+  },
+  {
+    "annee": 2023,
+    "pays": "Uruguay",
+    "iso2": "UY",
+    "valeurImports": 1061848442,
+    "poidsImports": 1290853.687,
+    "valeurParKg": 822.5939567696336
+  },
+  {
+    "annee": 2023,
+    "pays": "Vanuatu",
+    "iso2": "VU",
+    "valeurImports": 7942776,
+    "poidsImports": 6122.001,
+    "valeurParKg": 1297.4150118564176
+  },
+  {
+    "annee": 2023,
+    "pays": "Vénézuela",
+    "iso2": "VE",
+    "valeurImports": 3520120,
+    "poidsImports": 1326.177,
+    "valeurParKg": 2654.336487512602
+  }
+]

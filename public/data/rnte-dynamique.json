@@ -1,0 +1,253 @@
+{
+  "totalEtablissements": 189822,
+  "etablissementsActifs": 107352,
+  "etablissementsRadies": 82470,
+  "repartitionAnnuelle": [
+    {
+      "annee": 1986,
+      "inscriptions": 1,
+      "radiations": 1,
+      "soldeNet": 0
+    },
+    {
+      "annee": 1987,
+      "inscriptions": 9398,
+      "radiations": 661,
+      "soldeNet": 8737
+    },
+    {
+      "annee": 1988,
+      "inscriptions": 4739,
+      "radiations": 916,
+      "soldeNet": 3823
+    },
+    {
+      "annee": 1989,
+      "inscriptions": 2971,
+      "radiations": 757,
+      "soldeNet": 2214
+    },
+    {
+      "annee": 1990,
+      "inscriptions": 4535,
+      "radiations": 956,
+      "soldeNet": 3579
+    },
+    {
+      "annee": 1991,
+      "inscriptions": 3551,
+      "radiations": 1081,
+      "soldeNet": 2470
+    },
+    {
+      "annee": 1992,
+      "inscriptions": 2653,
+      "radiations": 983,
+      "soldeNet": 1670
+    },
+    {
+      "annee": 1993,
+      "inscriptions": 3973,
+      "radiations": 1046,
+      "soldeNet": 2927
+    },
+    {
+      "annee": 1994,
+      "inscriptions": 4605,
+      "radiations": 1135,
+      "soldeNet": 3470
+    },
+    {
+      "annee": 1995,
+      "inscriptions": 4602,
+      "radiations": 1132,
+      "soldeNet": 3470
+    },
+    {
+      "annee": 1996,
+      "inscriptions": 5015,
+      "radiations": 1075,
+      "soldeNet": 3940
+    },
+    {
+      "annee": 1997,
+      "inscriptions": 4948,
+      "radiations": 1382,
+      "soldeNet": 3566
+    },
+    {
+      "annee": 1998,
+      "inscriptions": 6612,
+      "radiations": 1515,
+      "soldeNet": 5097
+    },
+    {
+      "annee": 1999,
+      "inscriptions": 5418,
+      "radiations": 2304,
+      "soldeNet": 3114
+    },
+    {
+      "annee": 2000,
+      "inscriptions": 4369,
+      "radiations": 1800,
+      "soldeNet": 2569
+    },
+    {
+      "annee": 2001,
+      "inscriptions": 4371,
+      "radiations": 1843,
+      "soldeNet": 2528
+    },
+    {
+      "annee": 2002,
+      "inscriptions": 4217,
+      "radiations": 1538,
+      "soldeNet": 2679
+    },
+    {
+      "annee": 2003,
+      "inscriptions": 4684,
+      "radiations": 1645,
+      "soldeNet": 3039
+    },
+    {
+      "annee": 2004,
+      "inscriptions": 4137,
+      "radiations": 1591,
+      "soldeNet": 2546
+    },
+    {
+      "annee": 2005,
+      "inscriptions": 4220,
+      "radiations": 1372,
+      "soldeNet": 2848
+    },
+    {
+      "annee": 2006,
+      "inscriptions": 4965,
+      "radiations": 1559,
+      "soldeNet": 3406
+    },
+    {
+      "annee": 2007,
+      "inscriptions": 4709,
+      "radiations": 1539,
+      "soldeNet": 3170
+    },
+    {
+      "annee": 2008,
+      "inscriptions": 4657,
+      "radiations": 1651,
+      "soldeNet": 3006
+    },
+    {
+      "annee": 2009,
+      "inscriptions": 4460,
+      "radiations": 2102,
+      "soldeNet": 2358
+    },
+    {
+      "annee": 2010,
+      "inscriptions": 4300,
+      "radiations": 2243,
+      "soldeNet": 2057
+    },
+    {
+      "annee": 2011,
+      "inscriptions": 4603,
+      "radiations": 2421,
+      "soldeNet": 2182
+    },
+    {
+      "annee": 2012,
+      "inscriptions": 4887,
+      "radiations": 2405,
+      "soldeNet": 2482
+    },
+    {
+      "annee": 2013,
+      "inscriptions": 4448,
+      "radiations": 2282,
+      "soldeNet": 2166
+    },
+    {
+      "annee": 2014,
+      "inscriptions": 4918,
+      "radiations": 2910,
+      "soldeNet": 2008
+    },
+    {
+      "annee": 2015,
+      "inscriptions": 4589,
+      "radiations": 2587,
+      "soldeNet": 2002
+    },
+    {
+      "annee": 2016,
+      "inscriptions": 4908,
+      "radiations": 2861,
+      "soldeNet": 2047
+    },
+    {
+      "annee": 2017,
+      "inscriptions": 4757,
+      "radiations": 3106,
+      "soldeNet": 1651
+    },
+    {
+      "annee": 2018,
+      "inscriptions": 4981,
+      "radiations": 2881,
+      "soldeNet": 2100
+    },
+    {
+      "annee": 2019,
+      "inscriptions": 5559,
+      "radiations": 3761,
+      "soldeNet": 1798
+    },
+    {
+      "annee": 2020,
+      "inscriptions": 5358,
+      "radiations": 3147,
+      "soldeNet": 2211
+    },
+    {
+      "annee": 2021,
+      "inscriptions": 5872,
+      "radiations": 3781,
+      "soldeNet": 2091
+    },
+    {
+      "annee": 2022,
+      "inscriptions": 5807,
+      "radiations": 3660,
+      "soldeNet": 2147
+    },
+    {
+      "annee": 2023,
+      "inscriptions": 5684,
+      "radiations": 3526,
+      "soldeNet": 2158
+    },
+    {
+      "annee": 2024,
+      "inscriptions": 5342,
+      "radiations": 4233,
+      "soldeNet": 1109
+    },
+    {
+      "annee": 2025,
+      "inscriptions": 4983,
+      "radiations": 4125,
+      "soldeNet": 858
+    },
+    {
+      "annee": 2026,
+      "inscriptions": 1016,
+      "radiations": 957,
+      "soldeNet": 59
+    }
+  ]
+}

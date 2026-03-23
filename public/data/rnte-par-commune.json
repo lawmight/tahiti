@@ -1,0 +1,975 @@
+[
+  {
+    "commune": "Papeete",
+    "total": 32812,
+    "actives": 18802,
+    "radiees": 14010,
+    "part": 0.1729
+  },
+  {
+    "commune": "Punaauia",
+    "total": 23183,
+    "actives": 13476,
+    "radiees": 9707,
+    "part": 0.1221
+  },
+  {
+    "commune": "Faaa",
+    "total": 17257,
+    "actives": 9270,
+    "radiees": 7987,
+    "part": 0.0909
+  },
+  {
+    "commune": "Pirae",
+    "total": 9838,
+    "actives": 5416,
+    "radiees": 4422,
+    "part": 0.0518
+  },
+  {
+    "commune": "Mahina",
+    "total": 8282,
+    "actives": 4303,
+    "radiees": 3979,
+    "part": 0.0436
+  },
+  {
+    "commune": "Arue",
+    "total": 6797,
+    "actives": 3879,
+    "radiees": 2918,
+    "part": 0.0358
+  },
+  {
+    "commune": "Paea",
+    "total": 6779,
+    "actives": 3483,
+    "radiees": 3296,
+    "part": 0.0357
+  },
+  {
+    "commune": "Papara",
+    "total": 5431,
+    "actives": 2979,
+    "radiees": 2452,
+    "part": 0.0286
+  },
+  {
+    "commune": "Afaahiti",
+    "total": 4711,
+    "actives": 2623,
+    "radiees": 2088,
+    "part": 0.0248
+  },
+  {
+    "commune": "Pao Pao",
+    "total": 4213,
+    "actives": 2325,
+    "radiees": 1888,
+    "part": 0.0222
+  },
+  {
+    "commune": "Uturoa",
+    "total": 4140,
+    "actives": 2260,
+    "radiees": 1880,
+    "part": 0.0218
+  },
+  {
+    "commune": "Haapiti",
+    "total": 3805,
+    "actives": 2178,
+    "radiees": 1627,
+    "part": 0.02
+  },
+  {
+    "commune": "Nunue",
+    "total": 3490,
+    "actives": 2138,
+    "radiees": 1352,
+    "part": 0.0184
+  },
+  {
+    "commune": "Avera - Taputapuatea",
+    "total": 2519,
+    "actives": 1444,
+    "radiees": 1075,
+    "part": 0.0133
+  },
+  {
+    "commune": "Mataiea",
+    "total": 2260,
+    "actives": 1264,
+    "radiees": 996,
+    "part": 0.0119
+  },
+  {
+    "commune": "Afareaitu",
+    "total": 2100,
+    "actives": 1240,
+    "radiees": 860,
+    "part": 0.0111
+  },
+  {
+    "commune": "Rangiroa",
+    "total": 1988,
+    "actives": 1170,
+    "radiees": 818,
+    "part": 0.0105
+  },
+  {
+    "commune": "Toahotu",
+    "total": 1883,
+    "actives": 1067,
+    "radiees": 816,
+    "part": 0.0099
+  },
+  {
+    "commune": "Teavaro",
+    "total": 1818,
+    "actives": 1068,
+    "radiees": 750,
+    "part": 0.0096
+  },
+  {
+    "commune": "Papeari",
+    "total": 1813,
+    "actives": 994,
+    "radiees": 819,
+    "part": 0.0096
+  },
+  {
+    "commune": "Taiohae",
+    "total": 1707,
+    "actives": 1029,
+    "radiees": 678,
+    "part": 0.009
+  },
+  {
+    "commune": "Papetoai",
+    "total": 1531,
+    "actives": 893,
+    "radiees": 638,
+    "part": 0.0081
+  },
+  {
+    "commune": "Papenoo",
+    "total": 1531,
+    "actives": 828,
+    "radiees": 703,
+    "part": 0.0081
+  },
+  {
+    "commune": "Fare",
+    "total": 1503,
+    "actives": 853,
+    "radiees": 650,
+    "part": 0.0079
+  },
+  {
+    "commune": "Vairao",
+    "total": 1473,
+    "actives": 792,
+    "radiees": 681,
+    "part": 0.0078
+  },
+  {
+    "commune": "Atuona",
+    "total": 1360,
+    "actives": 859,
+    "radiees": 501,
+    "part": 0.0072
+  },
+  {
+    "commune": "Tevaitoa",
+    "total": 1358,
+    "actives": 775,
+    "radiees": 583,
+    "part": 0.0072
+  },
+  {
+    "commune": "Hakahau",
+    "total": 1144,
+    "actives": 720,
+    "radiees": 424,
+    "part": 0.006
+  },
+  {
+    "commune": "Faanui",
+    "total": 1141,
+    "actives": 689,
+    "radiees": 452,
+    "part": 0.006
+  },
+  {
+    "commune": "Tautira",
+    "total": 1121,
+    "actives": 671,
+    "radiees": 450,
+    "part": 0.0059
+  },
+  {
+    "commune": "Tiarei",
+    "total": 1014,
+    "actives": 540,
+    "radiees": 474,
+    "part": 0.0053
+  },
+  {
+    "commune": "Faaone",
+    "total": 993,
+    "actives": 566,
+    "radiees": 427,
+    "part": 0.0052
+  },
+  {
+    "commune": "Opoa",
+    "total": 883,
+    "actives": 489,
+    "radiees": 394,
+    "part": 0.0047
+  },
+  {
+    "commune": "Iripau",
+    "total": 875,
+    "actives": 555,
+    "radiees": 320,
+    "part": 0.0046
+  },
+  {
+    "commune": "Maupiti",
+    "total": 871,
+    "actives": 469,
+    "radiees": 402,
+    "part": 0.0046
+  },
+  {
+    "commune": "Hitiaa",
+    "total": 836,
+    "actives": 467,
+    "radiees": 369,
+    "part": 0.0044
+  },
+  {
+    "commune": "Mataura",
+    "total": 830,
+    "actives": 529,
+    "radiees": 301,
+    "part": 0.0044
+  },
+  {
+    "commune": "Anau",
+    "total": 824,
+    "actives": 494,
+    "radiees": 330,
+    "part": 0.0043
+  },
+  {
+    "commune": "Teahupoo",
+    "total": 784,
+    "actives": 474,
+    "radiees": 310,
+    "part": 0.0041
+  },
+  {
+    "commune": "Fakarava",
+    "total": 773,
+    "actives": 488,
+    "radiees": 285,
+    "part": 0.0041
+  },
+  {
+    "commune": "Pueu",
+    "total": 728,
+    "actives": 414,
+    "radiees": 314,
+    "part": 0.0038
+  },
+  {
+    "commune": "Moerai",
+    "total": 672,
+    "actives": 423,
+    "radiees": 249,
+    "part": 0.0035
+  },
+  {
+    "commune": "Takaroa",
+    "total": 625,
+    "actives": 319,
+    "radiees": 306,
+    "part": 0.0033
+  },
+  {
+    "commune": "Haamene",
+    "total": 599,
+    "actives": 354,
+    "radiees": 245,
+    "part": 0.0032
+  },
+  {
+    "commune": "Hao",
+    "total": 578,
+    "actives": 353,
+    "radiees": 225,
+    "part": 0.003
+  },
+  {
+    "commune": "Arutua",
+    "total": 577,
+    "actives": 407,
+    "radiees": 170,
+    "part": 0.003
+  },
+  {
+    "commune": "Manihi",
+    "total": 565,
+    "actives": 308,
+    "radiees": 257,
+    "part": 0.003
+  },
+  {
+    "commune": "Maeva",
+    "total": 563,
+    "actives": 285,
+    "radiees": 278,
+    "part": 0.003
+  },
+  {
+    "commune": "Mangareva",
+    "total": 540,
+    "actives": 403,
+    "radiees": 137,
+    "part": 0.0028
+  },
+  {
+    "commune": "Fitii",
+    "total": 510,
+    "actives": 282,
+    "radiees": 228,
+    "part": 0.0027
+  },
+  {
+    "commune": "Vaiaau",
+    "total": 500,
+    "actives": 258,
+    "radiees": 242,
+    "part": 0.0026
+  },
+  {
+    "commune": "Non déclaré",
+    "total": 499,
+    "actives": 10,
+    "radiees": 489,
+    "part": 0.0026
+  },
+  {
+    "commune": "Ahe",
+    "total": 489,
+    "actives": 301,
+    "radiees": 188,
+    "part": 0.0026
+  },
+  {
+    "commune": "Makemo",
+    "total": 469,
+    "actives": 294,
+    "radiees": 175,
+    "part": 0.0025
+  },
+  {
+    "commune": "Tapuamu",
+    "total": 446,
+    "actives": 249,
+    "radiees": 197,
+    "part": 0.0023
+  },
+  {
+    "commune": "Takapoto",
+    "total": 437,
+    "actives": 275,
+    "radiees": 162,
+    "part": 0.0023
+  },
+  {
+    "commune": "Fatu-Hiva",
+    "total": 433,
+    "actives": 269,
+    "radiees": 164,
+    "part": 0.0023
+  },
+  {
+    "commune": "Mahaena",
+    "total": 415,
+    "actives": 227,
+    "radiees": 188,
+    "part": 0.0022
+  },
+  {
+    "commune": "Ua Huka",
+    "total": 413,
+    "actives": 233,
+    "radiees": 180,
+    "part": 0.0022
+  },
+  {
+    "commune": "Avera - Australes",
+    "total": 390,
+    "actives": 257,
+    "radiees": 133,
+    "part": 0.0021
+  },
+  {
+    "commune": "Kaukura",
+    "total": 384,
+    "actives": 265,
+    "radiees": 119,
+    "part": 0.002
+  },
+  {
+    "commune": "Tahuata",
+    "total": 376,
+    "actives": 206,
+    "radiees": 170,
+    "part": 0.002
+  },
+  {
+    "commune": "Mahu",
+    "total": 371,
+    "actives": 219,
+    "radiees": 152,
+    "part": 0.002
+  },
+  {
+    "commune": "Apataki",
+    "total": 367,
+    "actives": 216,
+    "radiees": 151,
+    "part": 0.0019
+  },
+  {
+    "commune": "Ruutia",
+    "total": 362,
+    "actives": 226,
+    "radiees": 136,
+    "part": 0.0019
+  },
+  {
+    "commune": "Parea",
+    "total": 330,
+    "actives": 193,
+    "radiees": 137,
+    "part": 0.0017
+  },
+  {
+    "commune": "Faaaha",
+    "total": 321,
+    "actives": 183,
+    "radiees": 138,
+    "part": 0.0017
+  },
+  {
+    "commune": "Niua",
+    "total": 315,
+    "actives": 184,
+    "radiees": 131,
+    "part": 0.0017
+  },
+  {
+    "commune": "Maroe",
+    "total": 312,
+    "actives": 184,
+    "radiees": 128,
+    "part": 0.0016
+  },
+  {
+    "commune": "Taahuaia",
+    "total": 311,
+    "actives": 177,
+    "radiees": 134,
+    "part": 0.0016
+  },
+  {
+    "commune": "Tikehau",
+    "total": 309,
+    "actives": 170,
+    "radiees": 139,
+    "part": 0.0016
+  },
+  {
+    "commune": "Taipivai",
+    "total": 293,
+    "actives": 171,
+    "radiees": 122,
+    "part": 0.0015
+  },
+  {
+    "commune": "Haapu",
+    "total": 293,
+    "actives": 170,
+    "radiees": 123,
+    "part": 0.0015
+  },
+  {
+    "commune": "Gambier",
+    "total": 289,
+    "actives": 132,
+    "radiees": 157,
+    "part": 0.0015
+  },
+  {
+    "commune": "Tefarerii",
+    "total": 285,
+    "actives": 156,
+    "radiees": 129,
+    "part": 0.0015
+  },
+  {
+    "commune": "Tehurui",
+    "total": 284,
+    "actives": 150,
+    "radiees": 134,
+    "part": 0.0015
+  },
+  {
+    "commune": "Hipu",
+    "total": 268,
+    "actives": 157,
+    "radiees": 111,
+    "part": 0.0014
+  },
+  {
+    "commune": "Vaitoare",
+    "total": 263,
+    "actives": 151,
+    "radiees": 112,
+    "part": 0.0014
+  },
+  {
+    "commune": "Fetuna",
+    "total": 261,
+    "actives": 147,
+    "radiees": 114,
+    "part": 0.0014
+  },
+  {
+    "commune": "Puohine",
+    "total": 247,
+    "actives": 130,
+    "radiees": 117,
+    "part": 0.0013
+  },
+  {
+    "commune": "Kauehi",
+    "total": 246,
+    "actives": 124,
+    "radiees": 122,
+    "part": 0.0013
+  },
+  {
+    "commune": "Hakamaii",
+    "total": 231,
+    "actives": 136,
+    "radiees": 95,
+    "part": 0.0012
+  },
+  {
+    "commune": "Hatiheu",
+    "total": 229,
+    "actives": 137,
+    "radiees": 92,
+    "part": 0.0012
+  },
+  {
+    "commune": "Faie",
+    "total": 226,
+    "actives": 123,
+    "radiees": 103,
+    "part": 0.0012
+  },
+  {
+    "commune": "Amaru",
+    "total": 222,
+    "actives": 156,
+    "radiees": 66,
+    "part": 0.0012
+  },
+  {
+    "commune": "Hauti",
+    "total": 214,
+    "actives": 143,
+    "radiees": 71,
+    "part": 0.0011
+  },
+  {
+    "commune": "Puamau",
+    "total": 213,
+    "actives": 125,
+    "radiees": 88,
+    "part": 0.0011
+  },
+  {
+    "commune": "Rairua-Mahanatoa",
+    "total": 211,
+    "actives": 120,
+    "radiees": 91,
+    "part": 0.0011
+  },
+  {
+    "commune": "Rapa",
+    "total": 210,
+    "actives": 124,
+    "radiees": 86,
+    "part": 0.0011
+  },
+  {
+    "commune": "Anaa",
+    "total": 210,
+    "actives": 132,
+    "radiees": 78,
+    "part": 0.0011
+  },
+  {
+    "commune": "Katiu",
+    "total": 205,
+    "actives": 123,
+    "radiees": 82,
+    "part": 0.0011
+  },
+  {
+    "commune": "Mataiva",
+    "total": 182,
+    "actives": 99,
+    "radiees": 83,
+    "part": 0.001
+  },
+  {
+    "commune": "Anapoto",
+    "total": 178,
+    "actives": 114,
+    "radiees": 64,
+    "part": 0.0009
+  },
+  {
+    "commune": "Raroia",
+    "total": 165,
+    "actives": 83,
+    "radiees": 82,
+    "part": 0.0009
+  },
+  {
+    "commune": "Tatakoto",
+    "total": 162,
+    "actives": 98,
+    "radiees": 64,
+    "part": 0.0009
+  },
+  {
+    "commune": "Aratika",
+    "total": 155,
+    "actives": 91,
+    "radiees": 64,
+    "part": 0.0008
+  },
+  {
+    "commune": "Reao",
+    "total": 155,
+    "actives": 100,
+    "radiees": 55,
+    "part": 0.0008
+  },
+  {
+    "commune": "Tureia",
+    "total": 149,
+    "actives": 76,
+    "radiees": 73,
+    "part": 0.0008
+  },
+  {
+    "commune": "Faaite",
+    "total": 147,
+    "actives": 97,
+    "radiees": 50,
+    "part": 0.0008
+  },
+  {
+    "commune": "Mutuaura",
+    "total": 145,
+    "actives": 85,
+    "radiees": 60,
+    "part": 0.0008
+  },
+  {
+    "commune": "Anatonu",
+    "total": 141,
+    "actives": 87,
+    "radiees": 54,
+    "part": 0.0007
+  },
+  {
+    "commune": "Takume",
+    "total": 126,
+    "actives": 78,
+    "radiees": 48,
+    "part": 0.0007
+  },
+  {
+    "commune": "Nukutavake",
+    "total": 124,
+    "actives": 87,
+    "radiees": 37,
+    "part": 0.0007
+  },
+  {
+    "commune": "Hikueru",
+    "total": 106,
+    "actives": 65,
+    "radiees": 41,
+    "part": 0.0006
+  },
+  {
+    "commune": "Niau",
+    "total": 95,
+    "actives": 63,
+    "radiees": 32,
+    "part": 0.0005
+  },
+  {
+    "commune": "Fakahina",
+    "total": 94,
+    "actives": 43,
+    "radiees": 51,
+    "part": 0.0005
+  },
+  {
+    "commune": "Vaiuru",
+    "total": 91,
+    "actives": 60,
+    "radiees": 31,
+    "part": 0.0005
+  },
+  {
+    "commune": "Napuka",
+    "total": 87,
+    "actives": 54,
+    "radiees": 33,
+    "part": 0.0005
+  },
+  {
+    "commune": "Amanu",
+    "total": 76,
+    "actives": 46,
+    "radiees": 30,
+    "part": 0.0004
+  },
+  {
+    "commune": "Pukarua",
+    "total": 73,
+    "actives": 36,
+    "radiees": 37,
+    "part": 0.0004
+  },
+  {
+    "commune": "Makatea",
+    "total": 65,
+    "actives": 48,
+    "radiees": 17,
+    "part": 0.0003
+  },
+  {
+    "commune": "Maiao",
+    "total": 60,
+    "actives": 39,
+    "radiees": 21,
+    "part": 0.0003
+  },
+  {
+    "commune": "Vahitahi",
+    "total": 59,
+    "actives": 41,
+    "radiees": 18,
+    "part": 0.0003
+  },
+  {
+    "commune": "Puka Puka",
+    "total": 58,
+    "actives": 34,
+    "radiees": 24,
+    "part": 0.0003
+  },
+  {
+    "commune": "Taenga",
+    "total": 57,
+    "actives": 33,
+    "radiees": 24,
+    "part": 0.0003
+  },
+  {
+    "commune": "Raraka",
+    "total": 55,
+    "actives": 34,
+    "radiees": 21,
+    "part": 0.0003
+  },
+  {
+    "commune": "Vairaatea",
+    "total": 48,
+    "actives": 36,
+    "radiees": 12,
+    "part": 0.0003
+  },
+  {
+    "commune": "Fangatau",
+    "total": 44,
+    "actives": 23,
+    "radiees": 21,
+    "part": 0.0002
+  },
+  {
+    "commune": "Marokau",
+    "total": 44,
+    "actives": 29,
+    "radiees": 15,
+    "part": 0.0002
+  },
+  {
+    "commune": "Hereheretue",
+    "total": 20,
+    "actives": 13,
+    "radiees": 7,
+    "part": 0.0001
+  },
+  {
+    "commune": "Hors Polynésie",
+    "total": 14,
+    "actives": 4,
+    "radiees": 10,
+    "part": 0.0001
+  },
+  {
+    "commune": "Tepoto Nord",
+    "total": 14,
+    "actives": 7,
+    "radiees": 7,
+    "part": 0.0001
+  },
+  {
+    "commune": "Tematangi",
+    "total": 10,
+    "actives": 8,
+    "radiees": 2,
+    "part": 0.0001
+  },
+  {
+    "commune": "Tetiaroa",
+    "total": 8,
+    "actives": 7,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Marutea Sud",
+    "total": 8,
+    "actives": 7,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Toau",
+    "total": 7,
+    "actives": 5,
+    "radiees": 2,
+    "part": 0
+  },
+  {
+    "commune": "Maupihaa",
+    "total": 5,
+    "actives": 1,
+    "radiees": 4,
+    "part": 0
+  },
+  {
+    "commune": "Nukutepipi",
+    "total": 3,
+    "actives": 3,
+    "radiees": 0,
+    "part": 0
+  },
+  {
+    "commune": "Pinaki",
+    "total": 3,
+    "actives": 2,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Moruroa",
+    "total": 3,
+    "actives": 1,
+    "radiees": 2,
+    "part": 0
+  },
+  {
+    "commune": "Paraoa",
+    "total": 1,
+    "actives": 0,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Motutunga",
+    "total": 1,
+    "actives": 1,
+    "radiees": 0,
+    "part": 0
+  },
+  {
+    "commune": "Tikei",
+    "total": 1,
+    "actives": 0,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Nengonengo",
+    "total": 1,
+    "actives": 1,
+    "radiees": 0,
+    "part": 0
+  },
+  {
+    "commune": "Aukena",
+    "total": 1,
+    "actives": 0,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Rekareka",
+    "total": 1,
+    "actives": 0,
+    "radiees": 1,
+    "part": 0
+  },
+  {
+    "commune": "Matureivavao",
+    "total": 1,
+    "actives": 1,
+    "radiees": 0,
+    "part": 0
+  },
+  {
+    "commune": "Nihiru",
+    "total": 1,
+    "actives": 1,
+    "radiees": 0,
+    "part": 0
+  },
+  {
+    "commune": "Vahanga",
+    "total": 1,
+    "actives": 1,
+    "radiees": 0,
+    "part": 0
+  }
+]
