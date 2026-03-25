@@ -63,6 +63,12 @@ function loadSheetRows(fileName) {
     raw: true,
     cellDates: false,
   });
+  if (workbook.SheetNames.length !== 1) {
+    throw new Error(
+      `Le classeur ${fileName} contient ${workbook.SheetNames.length} feuille(s) : ${workbook.SheetNames.join(', ')}. ` +
+        'Le script ne traite qu’un classeur à une seule feuille (données ISPF sur la première feuille).',
+    );
+  }
   const [firstSheetName] = workbook.SheetNames;
   const worksheet = workbook.Sheets[firstSheetName];
   return XLSX.utils.sheet_to_json(worksheet, {
@@ -312,6 +318,20 @@ async function convertEntreprises() {
   });
 }
 
+async function writeNafCodesFromPayload(payload) {
+  if (!Array.isArray(payload)) {
+    throw new Error(
+      `La nomenclature NAF doit être un tableau JSON ; reçu : ${typeof payload}.`,
+    );
+  }
+
+  const normalized = payload.map((entry) => ({
+    id: normalizeString(entry.id),
+    label: normalizeString(entry.label),
+  }));
+  await writeJson('naf-codes.json', normalized);
+}
+
 async function downloadNafCodes() {
   const response = await fetch(NAF_CODES_URL);
   if (!response.ok) {
@@ -321,11 +341,33 @@ async function downloadNafCodes() {
   }
 
   const payload = await response.json();
-  const normalized = payload.map((entry) => ({
-    id: normalizeString(entry.id),
-    label: normalizeString(entry.label),
-  }));
-  await writeJson('naf-codes.json', normalized);
+  await writeNafCodesFromPayload(payload);
+}
+
+const vendoredNafPath = path.join(rootDir, 'data', 'naf-codes.json');
+
+async function syncNafCodes() {
+  try {
+    const raw = await readFile(vendoredNafPath, 'utf8');
+    const payload = JSON.parse(raw);
+    await writeNafCodesFromPayload(payload);
+    console.log('NAF : nomenclature lue depuis data/naf-codes.json (pas de téléchargement).');
+    return;
+  } catch (error) {
+    if (error && error.code === 'ENOENT') {
+      // Fichier vendored absent : téléchargement ou erreur selon SKIP_NAF_FETCH.
+    } else {
+      throw error;
+    }
+  }
+
+  if (process.env.SKIP_NAF_FETCH === '1') {
+    throw new Error(
+      'SKIP_NAF_FETCH=1 : le fichier data/naf-codes.json est requis pour générer public/data/naf-codes.json sans réseau.',
+    );
+  }
+
+  await downloadNafCodes();
 }
 
 async function main() {
@@ -337,7 +379,7 @@ async function main() {
   await convertTourismePays();
   await convertTraficAerien();
   await convertEntreprises();
-  await downloadNafCodes();
+  await syncNafCodes();
 
   const classEffectifs = JSON.parse(
     await readFile(path.join(rootDir, 'data', 'classes-effectifs.json'), 'utf8'),

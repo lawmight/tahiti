@@ -44,8 +44,10 @@ Le script génère notamment :
 
 ### Important
 
+- Chaque classeur Excel source est lu sur **sa première feuille uniquement** ; un classeur à plusieurs feuilles fait échouer la conversion avec un message explicite.
 - Les colonnes `Mois` des fichiers `11201.xlsx` et `11801.xlsx` sont converties en dates ISO `YYYY-MM-DD`.
 - Le RNTE est **agrégé hors navigateur**. Le script ne produit jamais de `exportrte.json` complet.
+- **Codes NAF** : si `data/naf-codes.json` est présent (fichier versionné dans le dépôt), il est recopié vers `public/data/naf-codes.json` **sans accès réseau**. Sinon le script télécharge la nomenclature sur jsDelivr. Avec `SKIP_NAF_FETCH=1`, l’absence de `data/naf-codes.json` provoque une erreur.
 
 ## Développement local
 
